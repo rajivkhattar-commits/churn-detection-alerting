@@ -1,0 +1,28 @@
+Snowflake usage from this application
+=====================================
+
+Policy
+------
+This service does **not** send INSERT, UPDATE, DELETE, or DDL to Snowflake.
+
+Use Snowflake only for **read** access (SELECT) when wiring feature queries.
+Warehouse tables for scores, audit, or feedback should be populated by **separate**
+ETL / dbt / Snowflake tasks — not by this API.
+
+Historical scores (Analytics upload)
+------------------------------------
+See **sql/churn_score_history_analytics.sql** for a DBA-owned table definition and
+**data/score_history_upload_example.csv** for a bulk-load–friendly shape. The API does
+not INSERT into this table; export from batch jobs or future API export endpoints.
+
+Definitions and join paths
+--------------------------
+Populate env vars using Cursor **AskWoltAI** MCP (`get_schema`, `ask_wolt`) and optionally
+**Snowflake** MCP to validate SELECTs. Workflow: sql/mcp_workflow.txt
+
+  ENTERPRISE_DEFINITION_JSON
+  CANONICAL_JOINS_JSON
+
+The API exposes tool hints at GET /api/definitions/enterprise under the "mcp" key.
+
+Local development may use sql/local_sqlite_schema.sql for app-local persistence only.

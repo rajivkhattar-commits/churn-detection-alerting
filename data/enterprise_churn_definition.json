@@ -1,0 +1,20 @@
+{
+  "version": "1",
+  "source": "AskWoltAI MCP (ask_wolt), 2026 — replace with richer examples later",
+  "product_surfaces": [
+    "classic",
+    "wolt_plus",
+    "takeaway_pickup",
+    "drive",
+    "wolt_for_work",
+    "preorder"
+  ],
+  "snowflake_hints": {
+    "classic_vs_wolt_plus": "F_PURCHASES: IS_SUBSCRIPTION FALSE/TRUE; F_UNIT_ECONOMICS: SUBSCRIPTION_FEE_LOCAL > 0 implies Wolt+; reconciliation: IS_SUBSCRIPTION on F_UNIT_ECONOMICS_RECONCILIATION",
+    "takeaway_vs_homedelivery": "F_PURCHASES: DELIVERY_METHOD = 'takeaway' | 'homedelivery'",
+    "wolt_for_work": "F_PURCHASES: SEGMENT = 'B2B' with BUSINESS_LINE = 'Wolt for Work'; may need BUSINESS_LINE_CONFIGURATION join in reconciliation",
+    "drive": "F_PURCHASES: IS_DRIVE = TRUE; reconciliation: BUSINESS_LINE = 'Drive' or DRIVE_REVENUE_RECON > 0",
+    "preorder": "F_PURCHASES: IS_PREORDER = TRUE (orthogonal to surface — often scored with primary product)"
+  },
+  "text": "Enterprise (ENT) restaurant churn — interim definition (per Wolt product surface)\n\nScope: Score churn separately for each major customer-facing product line at the venue/merchant level where ENT applies. Surfaces to model independently:\n\n• Classic — Non–Wolt+ orders (standard marketplace delivery/takeaway; IS_SUBSCRIPTION = FALSE / no Wolt+ fee attribution).\n• Wolt+ — Subscription member orders (IS_SUBSCRIPTION TRUE or SUBSCRIPTION_FEE_LOCAL > 0 on economics tables as documented in schema).\n• Takeaway / pickup — Customer collection (DELIVERY_METHOD / takeaway paths; distinct commission tier vs homedelivery in reporting).\n• Wolt Drive — B2B delivery-as-a-service (IS_DRIVE; Drive business line / drive revenue).\n• Wolt for Work — B2B employee-benefit / corporate meals (SEGMENT B2B + Wolt for Work business line).\n• Pre-order — Advance orders (IS_PREORDER); usually layered on top of another surface for churn, not a standalone P&L line everywhere.\n\nSoft churn (per surface): Venue remains published and active, but delivered orders on that surface drop to zero (e.g. last 28 days) while other surfaces may still have volume — reversible operational decay.\n\nHard churn (per surface): Surface permanently disabled or venue unpublished/closed for that capability after prior activity — e.g. deleted/unpublished venue, takeaway turned off after historical takeaway orders, or terminal loss of Drive/WfW program eligibility.\n\nOperational / non-churn: Temporary closure, renovation, or data issues — use hours, support, and config signals in the explainer.\n\nReplace this blob when you have labelled churn examples; keep product_surfaces aligned with ProductCode in code."
+}

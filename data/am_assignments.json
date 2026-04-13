@@ -1,0 +1,6 @@
+{
+  "by_brand_country": {
+    "mcdonald's|GEO": { "email": "am-mcdonalds-geo@example.com" }
+  },
+  "default_account_manager_email": "demo-am@example.com"
+}

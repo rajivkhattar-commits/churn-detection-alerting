@@ -1,0 +1,29 @@
+Enterprise churn tool — AskWoltAI MCP exploration log
+======================================================
+
+Use Cursor **user-askwoltai** tools: `ask_wolt`, `run_wolt_sql`, `get_schema`.
+
+Session (2026-04-13)
+--------------------
+1. **Demo venue IDs** — Asked for 5 Global ENT restaurant venues with 90d order volumes.
+   Result: McDonald’s locations in GEO, CYP, HUN, FIN with venue_id UUIDs (see demo_feature_snapshots.json).
+
+2. **Churn label narratives** — Asked for example churn rows by product surface (Classic, Wolt+, takeaway, Drive).
+   Result: soft/operational/hard stories with 2025 dates; mapped into churn_labels_example.csv with matching venue_ids.
+
+3. **Demo venue list (single file)** — **data/demo_venues.csv** is the canonical demo table: 100 **high_volume_ent**
+   (top ENT by 90d orders; brands set to McDonald’s for that cohort) + 100 **low_volume_ent** (bottom-quartile ENT;
+   realistic brands from Snowflake `PRODUCTION.INTERMEDIATE.D_VENUES` via `run_wolt_sql`, same COALESCE pattern as
+   production: `BRAND_INTERNAL_NAME`, `ACCOUNT_NAME`, `BRAND_NAME`). Columns: `venue_id`, `country_code`, `market`,
+   `orders_90d`, `volume_segment`, `brand_name`.
+
+4. **Regenerating derived JSON** — After editing **demo_venues.csv**:
+   `python3 scripts/build_demo_feature_snapshots.py` then `python3 scripts/build_venue_enrichment.py`
+   (snapshots + UI enrichment). The feature builder applies five rotated **demo_risk_tier** profiles (0–4) per cohort
+   so the heuristic scorer shows a spread of risk.
+
+5. **Refreshing brands from Snowflake** — When venue IDs in **demo_venues.csv** change, run `run_wolt_sql` with a
+   `SELECT` from `D_VENUES` restricted to those `venue_id` values; paste the `brand_name` column back into the CSV
+   (or script a merge). Use **get_schema** for exact column names and join patterns.
+
+Workflow: sql/mcp_workflow.txt

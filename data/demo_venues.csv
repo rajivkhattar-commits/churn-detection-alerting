@@ -1,0 +1,701 @@
+venue_id,country_code,market,orders_90d,volume_segment,brand_name
+632309a7b3af1635e2705043,GEO,Tbilisi,37662,high_volume_ent,McDonald's
+64fee0479799d16e34a40fb8,CYP,Limassol,36441,high_volume_ent,McDonald's
+5ff750cb2340c577df92d140,HUN,Budapest,34873,high_volume_ent,McDonald's
+5beea1e19a25b7000a89bc8b,FIN,Turku,33795,high_volume_ent,McDonald's
+6566ea513409eb2a350cc351,GEO,Tbilisi,33029,high_volume_ent,McDonald's
+66d6ca0474cccc0fe02afcf9,GEO,Tbilisi,30198,high_volume_ent,McDonald's
+661fa8c9f53b056042fb8f08,AZE,Baku,28008,high_volume_ent,McDonald's
+63243fffd6492075ea2a13ee,GEO,Tbilisi,27934,high_volume_ent,McDonald's
+5df0e9a4212d710c49dec732,AZE,Baku,27895,high_volume_ent,McDonald's
+5e4a85811b4848464ad09ee9,DNK,Aalborg,24725,high_volume_ent,McDonald's
+6489889737cfb69468c733fc,CYP,Limassol,23543,high_volume_ent,McDonald's
+5e7360918839e280359b147f,GEO,Tbilisi,23336,high_volume_ent,McDonald's
+6728d5accf84f28336f9bb25,AZE,Baku,23257,high_volume_ent,McDonald's
+61964aece26d40c6faa6fa33,HRV,Rijeka,22769,high_volume_ent,McDonald's
+5ff7493c4c91e256e92b6ef8,HUN,Budapest,22174,high_volume_ent,McDonald's
+5fedcde654339b0b58141abf,HUN,Budapest,21674,high_volume_ent,McDonald's
+61b99dce32d415f931b94521,AZE,Baku,21495,high_volume_ent,McDonald's
+5ff7537f1894f58d787e4aa5,HUN,Budapest,21452,high_volume_ent,McDonald's
+62e28899648857346729f666,FIN,Helsinki,21372,high_volume_ent,McDonald's
+6464ce7af2dee546eccbc0ee,CYP,Nicosia,21318,high_volume_ent,McDonald's
+5fdcaa2d4994522c026e94a9,AZE,Baku,21042,high_volume_ent,McDonald's
+61dd4c7e9dbea198b62c2576,SRB,Belgrade,20945,high_volume_ent,McDonald's
+5e208bdc5aa741bca394591f,ISR,Tel Aviv,20606,high_volume_ent,McDonald's
+5ee284da99add9ec8cc73ffd,MLT,Malta,20551,high_volume_ent,McDonald's
+6568bb3de0e25951212ebe0b,DNK,Copenhagen,20393,high_volume_ent,McDonald's
+6323043cdd87858d27b4d10d,GEO,Tbilisi,20124,high_volume_ent,McDonald's
+63f3951ca4c241e42e2b0387,CYP,Paphos,19832,high_volume_ent,McDonald's
+5e77659f48e7d164d7d1d459,AZE,Baku,19603,high_volume_ent,McDonald's
+5d3035d17c5a541646bcec97,AZE,Baku,19564,high_volume_ent,McDonald's
+64524a2604076428997c2ec8,CYP,Limassol,19437,high_volume_ent,McDonald's
+664da8e02b117f45247ad49b,FIN,Helsinki,19194,high_volume_ent,McDonald's
+5e7e09adad8f1f323ad8cd6a,SVK,Bratislava,19186,high_volume_ent,McDonald's
+63230798cffc1afbe2a0007e,GEO,Tbilisi,19150,high_volume_ent,McDonald's
+61dd53304270ffb2a68017f9,SRB,Belgrade,19014,high_volume_ent,McDonald's
+5ff7545b0f2049ecfbdfabed,HUN,Budapest,18665,high_volume_ent,McDonald's
+5cebedf079bb8c4e499bd4de,HRV,Zagreb,18525,high_volume_ent,McDonald's
+682b26def2038dd1c6d96601,GEO,Tbilisi,18380,high_volume_ent,McDonald's
+5f283bd21611582419efbca4,HRV,Split,18180,high_volume_ent,McDonald's
+61710d08cf3b52687f25f0ae,HRV,Zagreb,18021,high_volume_ent,McDonald's
+5fedcd1f3d699b878552965d,HUN,Budapest,18007,high_volume_ent,McDonald's
+5e2085a9cc063900b8072e27,SVK,Bratislava,17637,high_volume_ent,McDonald's
+6704e288d5fd1a167abc3047,DNK,Copenhagen,17416,high_volume_ent,McDonald's
+5e73564d9726d7fa7a22bf27,GEO,Tbilisi,17320,high_volume_ent,McDonald's
+5e7361679726d7fa7a22d66a,GEO,Tbilisi,17143,high_volume_ent,McDonald's
+5ba4b416b901f8000c74fa99,DNK,Copenhagen,16993,high_volume_ent,McDonald's
+61dd6cabffedd36a2b2d79c3,SRB,Belgrade,16782,high_volume_ent,McDonald's
+61964329670223f90b71fc50,HRV,Zagreb,16504,high_volume_ent,McDonald's
+6323114b61f7c3974205e533,GEO,Tbilisi,16498,high_volume_ent,McDonald's
+5e8dd20cc4816a945535d620,MLT,Malta,16322,high_volume_ent,McDonald's
+67d28b1d93c22aed75318585,AZE,Baku,16159,high_volume_ent,McDonald's
+5ddd4dae0d49de7efd40dea9,NOR,Oslo,16143,high_volume_ent,McDonald's
+619636d1a4f13a08fff2c059,HRV,Zagreb,16100,high_volume_ent,McDonald's
+61963ef9938c58a90c37ac79,HRV,Zagreb,15998,high_volume_ent,McDonald's
+5ae60015edc5e9000dc986c0,FIN,Helsinki,15974,high_volume_ent,McDonald's
+5eec98680d411611c9bc2b5a,AZE,Baku,15830,high_volume_ent,McDonald's
+5ff73e7dafc2579c437eb6a8,HUN,Budapest,15775,high_volume_ent,McDonald's
+5ba4b13262e098000c10c662,DNK,Copenhagen,15719,high_volume_ent,McDonald's
+5d7a427c14038232bab3abee,FIN,Tampere,15709,high_volume_ent,McDonald's
+6322f1172a7bb6c9278dccb5,GEO,Tbilisi,15523,high_volume_ent,McDonald's
+5ff74e7c9411c2a35292d1a7,HUN,Debrecen,15194,high_volume_ent,McDonald's
+60e5562c515d19ca03efe6c4,FIN,Vaasa,15130,high_volume_ent,McDonald's
+5fedcf563d699b87855299c5,HUN,Budapest,15031,high_volume_ent,McDonald's
+6322f87c8c40b3e7987356ef,GEO,Tbilisi,14937,high_volume_ent,McDonald's
+6322ecc5a01009aea9692f66,GEO,Tbilisi,14862,high_volume_ent,McDonald's
+5ff742a59411c2a35292bade,HUN,Szeged,14820,high_volume_ent,McDonald's
+5fedcc44313546da14f17375,HUN,Budapest,14625,high_volume_ent,McDonald's
+6703976f14b1855cba3b1940,FIN,Espoo,14611,high_volume_ent,McDonald's
+6441980d16b6fa967941d6e9,CYP,Larnaca,14504,high_volume_ent,McDonald's
+5ff75541f54026e5d57e59c1,HUN,Budapest,14279,high_volume_ent,McDonald's
+5c631f5027d21b000a69986c,FIN,Espoo,14191,high_volume_ent,McDonald's
+5e2093b614f822db09948a02,SVK,Bratislava,14141,high_volume_ent,McDonald's
+6601742b54384421d315fc07,SVN,Ljubljana,13943,high_volume_ent,McDonald's
+5cfa204e9fd280768ff692f1,HRV,Zagreb,13928,high_volume_ent,McDonald's
+5d30dcbdbac78b444f8e2848,SRB,Belgrade,13920,high_volume_ent,McDonald's
+5f283cac7656546b87f35deb,HRV,Zagreb,13889,high_volume_ent,McDonald's
+6421797460b46b2959ad26a5,GEO,Tbilisi,13817,high_volume_ent,McDonald's
+6582cc9c816d0a2af6216225,FIN,Rovaniemi,13679,high_volume_ent,McDonald's
+62835d3f3ba2b1a8ef6b194c,KAZ,Nur-Sultan,13652,high_volume_ent,McDonald's
+638e0ccdd9277bc8df7d1291,SWE,Örebro,13651,high_volume_ent,McDonald's
+61964d2accf7ff263e8430cd,HRV,Split,13598,high_volume_ent,McDonald's
+5efda79eae3980cdc6b0102c,SRB,Belgrade,13582,high_volume_ent,McDonald's
+62e289dcafed88f001e2db17,FIN,Vantaa,13570,high_volume_ent,McDonald's
+62556a0ad23c3be7082b1bba,NOR,Oslo,13506,high_volume_ent,McDonald's
+682db6e04efc77897e29fbb7,KAZ,Nur-Sultan,13471,high_volume_ent,McDonald's
+5e7b8de7a7a5e36f91c7b17b,HUN,Budapest,13461,high_volume_ent,McDonald's
+5d7a407a1764a34db015a18c,FIN,Helsinki,13421,high_volume_ent,McDonald's
+5fec6b3fc4f10af0756917e2,HUN,Budapest,13288,high_volume_ent,McDonald's
+63231be92c9f421886bd9135,GEO,Batumi,13284,high_volume_ent,McDonald's
+6322e7ddc0c749aab9125872,GEO,Tbilisi,13276,high_volume_ent,McDonald's
+6152e8af3fa24e900baf804c,HUN,Tatabánya,13169,high_volume_ent,McDonald's
+623346a5a40a69c9e46ef5fd,DNK,Aarhus,13148,high_volume_ent,McDonald's
+67ed2703c86a467a0cecf3f0,ROU,Timisoara,13140,high_volume_ent,McDonald's
+61dd66116fba0b7939f9582d,SRB,Belgrade,13084,high_volume_ent,McDonald's
+5ae6013cf78b5a000bb64022,FIN,Helsinki,13082,high_volume_ent,McDonald's
+5b30b0e894822b000bd1f900,EST,Tartu,13010,high_volume_ent,McDonald's
+600ac8d4e2022554bc325e87,HUN,Budapest,12983,high_volume_ent,McDonald's
+5f2841db1611582419efc999,HRV,Zagreb,12965,high_volume_ent,McDonald's
+650abb05f0dbd8a48113601f,CZE,Prague,12932,high_volume_ent,McDonald's
+5e83518df638003969216699,FIN,Oulu,12926,high_volume_ent,McDonald's
+67f7ad1e241a3210c34bd108,GEO,Tbilisi,12899,high_volume_ent,McDonald's
+68497f6a18487f996b7cc865,BGR,Sofia,1,low_volume_ent,Starbucks
+69b96a141f721bbffd065af7,BGR,Burgas,1,low_volume_ent,Starbucks
+68d55b4e58549f0b8edbc1e7,DEU,Wiesbaden,1,low_volume_ent,KFC
+61768ea39b3a4d0951ff41f0,DEU,Hamburg,1,low_volume_ent,Dunkin' Donuts
+615c3a162ca8e18293e4c1ed,DEU,Berlin,1,low_volume_ent,Subway
+69b195694a7a0cd74f081453,DEU,Stuttgart,1,low_volume_ent,McDonald's
+69971afa056a28fecfda6d9d,DEU,Cologne,1,low_volume_ent,Subway
+69971855e9bc4033e3de1e71,DEU,Magdeburg,1,low_volume_ent,Subway
+68b1c9a67bbbc776e3fbadc1,AUT,Vienna,1,low_volume_ent,Dunkin' Donuts
+65115cad451c8e0c965a9fd4,CZE,Brno,1,low_volume_ent,Burger King
+69a96b858bf88829375f5ff6,BGR,Burgas,1,low_volume_ent,Subway
+655f21f341932a8077519237,DEU,Wuppertal,1,low_volume_ent,Domino's Pizza
+5fc796a4aa565fcfffac4c17,NOR,Stavanger,1,low_volume_ent,McDonald's
+6576edcd243dd667b62621c9,DEU,Dresden,2,low_volume_ent,Domino's Pizza
+699714e415ebf0c41de4f964,DEU,Mönchengladbach,2,low_volume_ent,Subway
+6576ef052c27ca2eb180c9d9,DEU,Kassel,2,low_volume_ent,Domino's Pizza
+6996cbb67f7401f7a5977dbc,DEU,Ulm,2,low_volume_ent,Subway
+67f92fdf35482e8026ddca5f,AUT,Vienna,3,low_volume_ent,Burger King
+660ffe5a8ff13d1395e1a207,AUT,Graz,3,low_volume_ent,Dunkin' Donuts
+67a5e0e4ecca4b79a68d8675,POL,Lublin,3,low_volume_ent,Subway
+6996cccc6e1099b4ddf77284,DEU,Ulm,3,low_volume_ent,Dunkin' Donuts
+692eeb599a439802ee57ee79,POL,Szczecin,3,low_volume_ent,Starbucks
+66506ca920804e4ba9578180,DEU,Nuremberg,3,low_volume_ent,Dunkin' Donuts
+679cfd3a98f12f19190347a1,DEU,Hamburg,3,low_volume_ent,Burger King
+69807024efa3639d006d327b,POL,Opole,3,low_volume_ent,Pizza Hut
+698c8188eecb7a351611721b,DEU,Cologne,3,low_volume_ent,Subway
+69cb936d7240355821bb0e10,POL,Warsaw,3,low_volume_ent,Papa John's
+69bbfee974b4dff2ee86ae6c,DEU,Bonn,3,low_volume_ent,Subway
+673375caa90a2a081ae406b3,DEU,Troisdorf und Siegburg,4,low_volume_ent,Subway
+69b3ee2319769dd9241c9491,BGR,Burgas,4,low_volume_ent,McDonald's
+6996c8154018da6190cd2bb6,DEU,Remscheid,4,low_volume_ent,McDonald's
+691f276900c948e778ab5dd8,DEU,Hamburg,4,low_volume_ent,Burger King
+6929acd18797d63ee3dd447e,DEU,Gelsenkirchen,4,low_volume_ent,Burger King
+65158a608ea23e19fb72f448,DEU,Augsburg,4,low_volume_ent,Burger King
+69b3e9ef19769dd9241c9461,BGR,Burgas,4,low_volume_ent,McDonald's
+67ee78ef52cb5df735582f9d,ROU,Brăila,5,low_volume_ent,Starbucks
+67dd61fd58b9333668d2dcd3,ROU,Bucharest,5,low_volume_ent,Domino's Pizza
+69c3fec8e54b2e2832f6da29,POL,Warsaw,5,low_volume_ent,KFC
+6878cbf24b4f9b3ac41db750,AUT,Linz,5,low_volume_ent,Dunkin' Donuts
+699718ab54f133f8b214c6ab,DEU,Cologne,5,low_volume_ent,Subway
+69833a4dae7b768aa2dd805a,POL,Warsaw,6,low_volume_ent,McDonald's
+69414e77846afc1279c02a53,POL,Warsaw,6,low_volume_ent,Pizza Hut
+6985af43f5f42a5531cb9627,POL,Warsaw,6,low_volume_ent,McDonald's
+655df195be9adc7fd154cf50,DEU,Kassel,6,low_volume_ent,Subway
+698063277072d597ebb02fe8,POL,Opole,6,low_volume_ent,KFC
+699dbe64b8fecfeea4bcfb75,POL,Gorzów Wielkopolski,6,low_volume_ent,McDonald's
+699b18920113044d248618b2,BGR,Burgas,6,low_volume_ent,Subway
+685e69630459856ce4a4879a,POL,Warsaw,6,low_volume_ent,Burger King
+68efb2e480b65faef1025475,SWE,Helsingborg,6,low_volume_ent,Subway
+6996cbf9905f869fbfe3a5db,DEU,Ulm,6,low_volume_ent,Subway
+65116656a799d03df0d6d464,CZE,Prague,6,low_volume_ent,Burger King
+69b92fa261b1379b04e777d6,POL,Kraków,6,low_volume_ent,KFC
+69bc0a3d942956f86d2c91e4,POL,Olsztyn,7,low_volume_ent,McDonald's
+69cb7e07f7ce6d9bf2c9d6eb,POL,Wrocław,7,low_volume_ent,Papa John's
+69b402f930f41ada8954c2cb,BGR,Stara Zagora,7,low_volume_ent,Subway
+68626d895cb65dd53f247e15,POL,Warsaw,7,low_volume_ent,Domino's Pizza
+6969054e111bdc7dcf857b36,DEU,Hamburg,7,low_volume_ent,Subway
+67addde69dcdef28bd403957,POL,Aglomeracja Śląska,7,low_volume_ent,Max Burger
+658ecd0949d96d6e9498953a,CZE,Ostrava,7,low_volume_ent,Burger King
+67e52512926781259a18d1ac,POL,Sosnowiec,7,low_volume_ent,Domino's Pizza
+626fbe2b75daa64946309b92,MLT,Malta,7,low_volume_ent,McDonald's
+67dd686471603691a3e9eb3b,POL,Aglomeracja Śląska,7,low_volume_ent,Max Burger
+699710568eb03ae77afd9cfb,DEU,Berlin,7,low_volume_ent,Subway
+69baa719a85dad0abb2a4d8c,DEU,Munich,8,low_volume_ent,Starbucks
+6995d486da5b70653224295e,AUT,Innsbruck,8,low_volume_ent,Dunkin' Donuts
+68f89feecb6a06c1ae47b79e,POL,Sosnowiec,8,low_volume_ent,KFC
+6526acabae327f4b971dbe32,DEU,Troisdorf und Siegburg,8,low_volume_ent,Subway
+69845f114204893b3c4d8993,POL,Gorzów Wielkopolski,8,low_volume_ent,KFC
+69c51763293688a6b8adeab5,POL,Zielona Góra,8,low_volume_ent,Domino's Pizza
+65cde8cf0e716f00ee8f2dea,DEU,Darmstadt,8,low_volume_ent,Pizza Hut
+69930c492331f7c69bc46c64,DEU,Berlin,8,low_volume_ent,Domino's Pizza
+65782370da3cc14baf02ec31,DEU,Wuppertal,8,low_volume_ent,Domino's Pizza
+684562eddf34da57a4bcc9b9,BGR,Sofia,9,low_volume_ent,Starbucks
+699ec51c454b9353d1f5e025,POL,Białystok,9,low_volume_ent,McDonald's
+65117f6b05802434bd4a6594,CZE,Kladno,9,low_volume_ent,Burger King
+65115e2cc42f6f8fbbfcf42a,CZE,Teplice,9,low_volume_ent,Burger King
+684c1761afb17ef1b3c5e520,POL,Warsaw,9,low_volume_ent,Starbucks
+691b20b7e209d8ad51c9412c,DEU,Magdeburg,9,low_volume_ent,Subway
+6750637fb9224f72314c25b6,POL,Aglomeracja Śląska,9,low_volume_ent,Domino's Pizza
+699868e647ea3a0275e787f6,DEU,Hamburg,9,low_volume_ent,Starbucks
+68d1604f8c93e9fd538a0fdd,POL,Warsaw,9,low_volume_ent,Max Burger
+68777be9da99c8f2d94f196d,POL,Szczecin-Prawobrzeże,9,low_volume_ent,KFC
+65118ffb71d0d43d5ff5d382,CZE,Pilsen,10,low_volume_ent,Burger King
+69c676e26c751d494511986a,CZE,Teplice,10,low_volume_ent,Burger King
+6981ec2cc7118e66a6aa3ec6,POL,Opole,10,low_volume_ent,Subway
+6996b7aaef6d8a0881d598d1,DEU,Siegen,10,low_volume_ent,Starbucks
+67e52830ff93ab813b57e04e,POL,Warsaw,10,low_volume_ent,Domino's Pizza
+67da8c63cbbbba428c8006ac,AUT,Vienna,11,low_volume_ent,Dunkin' Donuts
+63f38f2bde05d83f7096679a,FIN,Vääksy,11,low_volume_ent,Subway
+69cb80075a90a462962203bc,POL,Wrocław,11,low_volume_ent,Papa John's
+6997159bc446e11322a1880a,DEU,Cologne,11,low_volume_ent,Subway
+65c4b0116bd8cacc643bad00,CZE,Karvina,11,low_volume_ent,Burger King
+687a5febdcb32318a48fc27b,POL,Warsaw,11,low_volume_ent,Max Burger
+69667612fd82aa809acb6e43,DEU,Aachen,12,low_volume_ent,Subway
+69662298c41fe0a0c4bfd96e,DEU,Hamburg,12,low_volume_ent,Subway
+699edd27454b9353d1f5e1b9,DEU,Cologne,12,low_volume_ent,Subway
+68f9f9e131c79a0dcb9ddef9,AUT,Linz,13,low_volume_ent,Subway
+67e52b6aff93ab813b57e056,POL,Gliwice,13,low_volume_ent,Domino's Pizza
+69cd0219b6589ede823c09a9,POL,Wrocław,13,low_volume_ent,Burger King
+65117832568f60ac53db4aee,CZE,České Budějovice,13,low_volume_ent,Burger King
+93907fa0ce50a49d3f232533,GEO,Tbilisi,18000,high_volume_ent,McDonald's
+67138bd770afdaa63be86f54,CYP,Limassol,17963,high_volume_ent,Burger King
+5fec2c5bbfbbe58b1f91a7dc,HUN,Budapest,17926,high_volume_ent,Subway
+bcd25087cecac36120af495c,FIN,Turku,17889,high_volume_ent,Domino's Pizza
+2beb921fc787c3d82b880284,GEO,Tbilisi,17852,high_volume_ent,KFC
+4f9b5aff35103db304372430,GEO,Tbilisi,17815,high_volume_ent,McDonald's
+207289bbe4a710f12d1f71fd,AZE,Baku,17778,high_volume_ent,Burger King
+690727ced229d90cdbad6425,GEO,Tbilisi,17741,high_volume_ent,Subway
+067de2e23e69f1653f50141d,AZE,Baku,17704,high_volume_ent,Domino's Pizza
+a5e42cecab39b80137ee2397,DNK,Aalborg,17667,high_volume_ent,KFC
+0206be4e68900e02a7e4698c,CYP,Limassol,17630,high_volume_ent,McDonald's
+a4c93752fe5a699d5722d32d,GEO,Tbilisi,17593,high_volume_ent,Burger King
+a013096fa7d390c6a4d39a2b,AZE,Baku,17556,high_volume_ent,Subway
+8607076d0b8a8b4d85de46bc,HRV,Rijeka,17519,high_volume_ent,Domino's Pizza
+856a8676dcda759c1d1e2d4a,HUN,Budapest,17482,high_volume_ent,KFC
+16ef99ddc5d29fd80cea03ef,HUN,Budapest,17445,high_volume_ent,McDonald's
+86a1498f6f05b71096cf3c9a,AZE,Baku,17408,high_volume_ent,Burger King
+f4e11b4638bced361e43f441,HUN,Budapest,17371,high_volume_ent,Subway
+2ced5f99c479ff3d440ecebb,FIN,Helsinki,17334,high_volume_ent,Domino's Pizza
+9c0bd2d83b3649740a86f965,CYP,Nicosia,17297,high_volume_ent,KFC
+7e9a40930dbde92f54e84073,AZE,Baku,17260,high_volume_ent,McDonald's
+f764aa4857fa64f640c88d25,SRB,Belgrade,17223,high_volume_ent,Burger King
+449999201399ae3d36121d8b,ISR,Tel Aviv,17186,high_volume_ent,Subway
+4907b427cb608c4caf1ab0b2,MLT,Malta,17149,high_volume_ent,Domino's Pizza
+4c954d1d9dccd357ec83b029,DNK,Copenhagen,17112,high_volume_ent,KFC
+c7e9a3184b39e323c56b3ebd,GEO,Tbilisi,17075,high_volume_ent,McDonald's
+7bda25332d6a697d6871485d,CYP,Paphos,17038,high_volume_ent,Burger King
+7b4fa0020c82e37d9462fb1a,AZE,Baku,17001,high_volume_ent,Subway
+24995b5582155ff77a37f19f,AZE,Baku,16964,high_volume_ent,Domino's Pizza
+bab42250f67bee6b28ce2818,CYP,Limassol,16927,high_volume_ent,KFC
+3d56a64103bc6a79d210654b,FIN,Helsinki,16890,high_volume_ent,McDonald's
+6b8a970b50b75464da9ac002,SVK,Bratislava,16853,high_volume_ent,Burger King
+93adaeb624d0a7fbe0e1d014,GEO,Tbilisi,16816,high_volume_ent,Subway
+058d0620551116e616f66044,SRB,Belgrade,16779,high_volume_ent,Domino's Pizza
+1f1b0fe4d1a66806515a0e8a,HUN,Budapest,16742,high_volume_ent,KFC
+047d12819e13cd225068dbaf,HRV,Zagreb,16705,high_volume_ent,McDonald's
+0b7f21492cf7c079daa63ea3,GEO,Tbilisi,16668,high_volume_ent,Burger King
+3f401df8c8baf6cf8e312c20,HRV,Split,16631,high_volume_ent,Subway
+c91b285c1074436c29aaa27a,HRV,Zagreb,16594,high_volume_ent,Domino's Pizza
+ed3dac0cb5f1dd7d6f13cba6,HUN,Budapest,16557,high_volume_ent,KFC
+5dcc0f0505224cfdbed69e92,SVK,Bratislava,16520,high_volume_ent,McDonald's
+813e3dbc8859960ae422dd34,DNK,Copenhagen,16483,high_volume_ent,Burger King
+e44586256f3907cf25ba1825,GEO,Tbilisi,16446,high_volume_ent,Subway
+6bd7de245e71db16a4cb41d9,GEO,Tbilisi,16409,high_volume_ent,Domino's Pizza
+724a7ec9b927ade485caba26,DNK,Copenhagen,16372,high_volume_ent,KFC
+b8ab4ccda17e91cbd6538b09,SRB,Belgrade,16335,high_volume_ent,McDonald's
+d092abebbe3241f2e12835fd,HRV,Zagreb,16298,high_volume_ent,Burger King
+3cbee38b46cb3b1c09897189,GEO,Tbilisi,16261,high_volume_ent,Subway
+d0f3e123f6033e61ceafcef5,MLT,Malta,16224,high_volume_ent,Domino's Pizza
+806a737059877b353230ddb4,AZE,Baku,16187,high_volume_ent,KFC
+e449280fec5ff0d6b956f0fe,NOR,Oslo,16150,high_volume_ent,McDonald's
+867e39d18ac746c0eadbabda,HRV,Zagreb,16113,high_volume_ent,Burger King
+7225de6ec953255d741bd7da,HRV,Zagreb,16076,high_volume_ent,Subway
+6ec51b5942d03b1aaf8450da,FIN,Helsinki,16039,high_volume_ent,Domino's Pizza
+daa80fe8d526e02c308103b0,AZE,Baku,16002,high_volume_ent,KFC
+a4564760e5aae02d496555ae,HUN,Budapest,15965,high_volume_ent,McDonald's
+9d38f55b952fdf01371be4e4,DNK,Copenhagen,15928,high_volume_ent,Burger King
+d3edecef8a36cd2a72c823a8,FIN,Tampere,15891,high_volume_ent,Subway
+6b3f0d3ff15677dbd343d9e3,GEO,Tbilisi,15854,high_volume_ent,Domino's Pizza
+e8d89acff14c912726d3dd66,HUN,Debrecen,15817,high_volume_ent,KFC
+e4a3087a0bbf65e647d1f2e3,FIN,Vaasa,15780,high_volume_ent,McDonald's
+4d4921ccd6afca7773195f21,HUN,Budapest,15743,high_volume_ent,Burger King
+e27a3b50a12602a49c0d6f2a,GEO,Tbilisi,15706,high_volume_ent,Subway
+4afa495b6a2108a8e7c78698,GEO,Tbilisi,15669,high_volume_ent,Domino's Pizza
+f80190a1a2030e49a426c52b,HUN,Szeged,15632,high_volume_ent,KFC
+f3c0dd16c7d8bc93c57ba0a3,HUN,Budapest,15595,high_volume_ent,McDonald's
+ccaa648ea739a5d2dff602ea,FIN,Espoo,15558,high_volume_ent,Burger King
+cda24ba2711d9b214941f82a,CYP,Larnaca,15521,high_volume_ent,Subway
+982f4302fcbd8674176918b3,HUN,Budapest,15484,high_volume_ent,Domino's Pizza
+727fd960c159594751e303ec,FIN,Espoo,15447,high_volume_ent,KFC
+487fbb56e1f212ba526ff5e6,SVK,Bratislava,15410,high_volume_ent,McDonald's
+42277e9d0c18ec7743fb1112,SVN,Ljubljana,15373,high_volume_ent,Burger King
+8e6b9c7d1c9432908e320c92,HRV,Zagreb,15336,high_volume_ent,Subway
+23a11d26565b893104b4f58d,SRB,Belgrade,15299,high_volume_ent,Domino's Pizza
+9606c39a43bc648730453242,HRV,Zagreb,15262,high_volume_ent,KFC
+5515135bf379732446355020,GEO,Tbilisi,15225,high_volume_ent,McDonald's
+228f5ae21255e8a520bb8e14,FIN,Rovaniemi,15188,high_volume_ent,Burger King
+75a97b5e5fd34f3b96c3a20c,KAZ,Nur-Sultan,15151,high_volume_ent,Subway
+18b2fa8fcf61b5e94863b263,SWE,Örebro,15114,high_volume_ent,Domino's Pizza
+6cf0a83ad6781421f276ddce,HRV,Split,15077,high_volume_ent,KFC
+01ce462592350ee44940b7b9,SRB,Belgrade,15040,high_volume_ent,McDonald's
+86bb12646db9247c62a01803,FIN,Vantaa,15003,high_volume_ent,Burger King
+ab59206fde72d0c9a3fdf1b4,NOR,Oslo,14966,high_volume_ent,Subway
+ca09c8bbfccf4b7ce9418e1c,KAZ,Nur-Sultan,14929,high_volume_ent,Domino's Pizza
+276d8088e601114316bd2266,HUN,Budapest,14892,high_volume_ent,KFC
+00cf593ac28bcd0bd97f20f2,FIN,Helsinki,14855,high_volume_ent,McDonald's
+a330e62433b71336abc21a75,HUN,Budapest,14818,high_volume_ent,Burger King
+9d4d06bc23c60df0066c4e0f,GEO,Batumi,14781,high_volume_ent,Subway
+12358305a57f507df520b1ae,GEO,Tbilisi,14744,high_volume_ent,Domino's Pizza
+d4da37f98a3c3de42e0ec818,HUN,Tatabánya,14707,high_volume_ent,KFC
+2d186ab8469880490270f979,DNK,Aarhus,14670,high_volume_ent,McDonald's
+3b33b80eb5a84b4a1153eb87,ROU,Timisoara,14633,high_volume_ent,Burger King
+76f6fa49a44a07f22189d7dc,SRB,Belgrade,14596,high_volume_ent,Subway
+7ddbf2c3ac3cb55cfe4f0838,FIN,Helsinki,14559,high_volume_ent,Domino's Pizza
+08c4c0a3f81a472232056037,EST,Tartu,14522,high_volume_ent,KFC
+df5ca99d3d692a1855829a18,HUN,Budapest,14485,high_volume_ent,McDonald's
+61f548f0b04b2d8dd1bc45b5,HRV,Zagreb,14448,high_volume_ent,Burger King
+d5134033799bfb6329ed0f03,CZE,Prague,14411,high_volume_ent,Subway
+b3f1d3990b5e1d9c2ddcd1d6,FIN,Oulu,14374,high_volume_ent,Domino's Pizza
+f357aa775efb1e988892519d,GEO,Tbilisi,14337,high_volume_ent,KFC
+97067cb3b69b22b367389071,GEO,Tbilisi,14300,high_volume_ent,McDonald's
+9de73493cf7561bfcf084c31,CYP,Limassol,14263,high_volume_ent,Burger King
+8424367d778eaacd7dc90da4,HUN,Budapest,14226,high_volume_ent,Subway
+69a44d0326933a06f4f25476,FIN,Turku,14189,high_volume_ent,Domino's Pizza
+0021b74eb6023ceef3cbfe6f,GEO,Tbilisi,14152,high_volume_ent,KFC
+291aa1cae494d864154e0417,GEO,Tbilisi,14115,high_volume_ent,McDonald's
+c1045e9b401614a08a52f772,AZE,Baku,14078,high_volume_ent,Burger King
+254d465f67989c0975ad8a2d,GEO,Tbilisi,14041,high_volume_ent,Subway
+a0375a0f305c088fd89d48af,AZE,Baku,14004,high_volume_ent,Domino's Pizza
+fe323d83e8ebd5f54d14bf5e,DNK,Aalborg,13967,high_volume_ent,KFC
+7c8a18688cfa9ff4c80832bb,CYP,Limassol,13930,high_volume_ent,McDonald's
+6e62e4fc41c5c0b239e34a95,GEO,Tbilisi,13893,high_volume_ent,Burger King
+157f83006b800138dcde2cd8,AZE,Baku,13856,high_volume_ent,Subway
+1f945937d72e78d00a469868,HRV,Rijeka,13819,high_volume_ent,Domino's Pizza
+134c9e673730d9a798cbe9d0,HUN,Budapest,13782,high_volume_ent,KFC
+e97ae618e77a57e243d8884a,HUN,Budapest,13745,high_volume_ent,McDonald's
+507d7f9b0d03126e4e9a5a3f,AZE,Baku,13708,high_volume_ent,Burger King
+03ca943c94c4ba4e1b2264f9,HUN,Budapest,13671,high_volume_ent,Subway
+46e5dae1012e7877b72dd95a,FIN,Helsinki,13634,high_volume_ent,Domino's Pizza
+8caff7fe69414d12736e8109,CYP,Nicosia,13597,high_volume_ent,KFC
+5415161ee39881ce2c81c9f1,AZE,Baku,13560,high_volume_ent,McDonald's
+246d6e363cd30ef7b189324f,SRB,Belgrade,13523,high_volume_ent,Burger King
+a91842af7cc7443b2cf3f418,ISR,Tel Aviv,13486,high_volume_ent,Subway
+041c9967568ddae16bca4af9,MLT,Malta,13449,high_volume_ent,Domino's Pizza
+9e5b0219b2d1489be0cb4189,DNK,Copenhagen,13412,high_volume_ent,KFC
+72b1cfd4b7957cb1726f256e,GEO,Tbilisi,13375,high_volume_ent,McDonald's
+aaf8f12b200ac794b4a09782,CYP,Paphos,13338,high_volume_ent,Burger King
+97c9f9d0580698a0c0dbbfce,AZE,Baku,13301,high_volume_ent,Subway
+94941a389f7a0899ba6944de,AZE,Baku,13264,high_volume_ent,Domino's Pizza
+c7a56baadcc8b3475d7bcdb4,CYP,Limassol,13227,high_volume_ent,KFC
+da953609ae9edef240a43ac6,FIN,Helsinki,13190,high_volume_ent,McDonald's
+c72f975870e7c78b75d1a5a4,SVK,Bratislava,13153,high_volume_ent,Burger King
+db2d79beb15c9fae07261ed9,GEO,Tbilisi,13116,high_volume_ent,Subway
+9089c33c74089b79d776d1e4,SRB,Belgrade,13079,high_volume_ent,Domino's Pizza
+67f40175d94d309dd0021aa2,HUN,Budapest,13042,high_volume_ent,KFC
+76aeab7157ca62bce7fadb85,HRV,Zagreb,13005,high_volume_ent,McDonald's
+c34a3fc686ab4b8dbd48e98c,GEO,Tbilisi,12968,high_volume_ent,Burger King
+d724683c01979f9e812e808b,HRV,Split,12931,high_volume_ent,Subway
+7bfd0cc8a3448b7dece744b7,HRV,Zagreb,12894,high_volume_ent,Domino's Pizza
+c27d237cc14bb1db9a7e940e,HUN,Budapest,12857,high_volume_ent,KFC
+2487b725c04c934fbb0f619a,SVK,Bratislava,12820,high_volume_ent,McDonald's
+23f73167c311161cf2857d8b,DNK,Copenhagen,12783,high_volume_ent,Burger King
+b486f5205bb713aaea27b230,GEO,Tbilisi,12746,high_volume_ent,Subway
+410fb8472d9a4d9f7c599f90,GEO,Tbilisi,12709,high_volume_ent,Domino's Pizza
+5f2763db2ba102efa7b8a659,DNK,Copenhagen,12672,high_volume_ent,KFC
+4845cd49e77b3f8b4228a706,SRB,Belgrade,12635,high_volume_ent,McDonald's
+0dfbd86baabe79f1659d9f3f,HRV,Zagreb,12598,high_volume_ent,Burger King
+8b9dda5ca38495645bc01b24,GEO,Tbilisi,12561,high_volume_ent,Subway
+47653a54aeb054ffdf1be63e,MLT,Malta,12524,high_volume_ent,Domino's Pizza
+6808b718eb7ba49c655571e3,AZE,Baku,12487,high_volume_ent,KFC
+cce14e4d5162777842e6e6f0,NOR,Oslo,12450,high_volume_ent,McDonald's
+58b941a6c6ec9f9d7f8b27b8,HRV,Zagreb,12413,high_volume_ent,Burger King
+3faef41f49d3bf73acf10d2d,HRV,Zagreb,12376,high_volume_ent,Subway
+13a264441e5cf77213f236e5,FIN,Helsinki,12339,high_volume_ent,Domino's Pizza
+ee0468d71f2f0e6ea1352102,AZE,Baku,12302,high_volume_ent,KFC
+e5b34168547c56afef07d3a2,HUN,Budapest,12265,high_volume_ent,McDonald's
+3c620f600a3fc9de66f31464,DNK,Copenhagen,12228,high_volume_ent,Burger King
+636e9e42b7c0b7291ba80d27,FIN,Tampere,12191,high_volume_ent,Subway
+32bf25caa8f64321942c2c09,GEO,Tbilisi,12154,high_volume_ent,Domino's Pizza
+559a4a6b9c8811f0e3c47cf3,HUN,Debrecen,12117,high_volume_ent,KFC
+1ee11b79d4fb23381c676797,FIN,Vaasa,12080,high_volume_ent,McDonald's
+5cdd375090fd4d65bf1bda8d,HUN,Budapest,12043,high_volume_ent,Burger King
+f665ed55d4c94a1cd0e94b19,GEO,Tbilisi,12006,high_volume_ent,Subway
+a5e1774696668014da5ee321,GEO,Tbilisi,12000,high_volume_ent,Domino's Pizza
+45376cc9d23515a452b994a5,HUN,Szeged,12000,high_volume_ent,KFC
+459f838945d5b1a4a660e3cf,HUN,Budapest,12000,high_volume_ent,McDonald's
+13b14e437ebd4ae6c5025180,FIN,Espoo,12000,high_volume_ent,Burger King
+2a2a1595133f79a97d430b43,CYP,Larnaca,12000,high_volume_ent,Subway
+1afa4db017c355cca1e35dc7,HUN,Budapest,12000,high_volume_ent,Domino's Pizza
+07b63a5c06e5e29b16de1be9,FIN,Espoo,12000,high_volume_ent,KFC
+a75fbef7186c41c7d0182b26,SVK,Bratislava,12000,high_volume_ent,McDonald's
+262369c74470ca9c2c2ff8f1,SVN,Ljubljana,12000,high_volume_ent,Burger King
+f97f3577ee46200291dbed8d,HRV,Zagreb,12000,high_volume_ent,Subway
+8cebe552e822f4a335fdd7b7,SRB,Belgrade,12000,high_volume_ent,Domino's Pizza
+ee5270f0c1d8fa43e7ca2119,HRV,Zagreb,12000,high_volume_ent,KFC
+09a5980504591e97f11d2c21,GEO,Tbilisi,12000,high_volume_ent,McDonald's
+390b64ac7b43deb13fcc970f,FIN,Rovaniemi,12000,high_volume_ent,Burger King
+944fdfa166ca93af72cff5b1,KAZ,Nur-Sultan,12000,high_volume_ent,Subway
+9289a8d834fa2f960e167053,SWE,Örebro,12000,high_volume_ent,Domino's Pizza
+1d54ab8c5fd2b17371821905,HRV,Split,12000,high_volume_ent,KFC
+cb6751a53fbfcc616be80c60,SRB,Belgrade,12000,high_volume_ent,McDonald's
+3a9dd46791c081beb4cca1e0,FIN,Vantaa,12000,high_volume_ent,Burger King
+c5ab45bfe8939dee000ee82a,NOR,Oslo,12000,high_volume_ent,Subway
+18be148732ec6f2f94295249,KAZ,Nur-Sultan,12000,high_volume_ent,Domino's Pizza
+a7451a43663670f9d6d970cd,HUN,Budapest,12000,high_volume_ent,KFC
+240f6803f1de6446196b00f3,FIN,Helsinki,12000,high_volume_ent,McDonald's
+a83dc072b16d8615994fac5f,HUN,Budapest,12000,high_volume_ent,Burger King
+d5b9a714ae7e09aca9c654ee,GEO,Batumi,12000,high_volume_ent,Subway
+9467ad742dd29cbe4896dcc9,GEO,Tbilisi,12000,high_volume_ent,Domino's Pizza
+73eff08f3011f31f0ea73923,HUN,Tatabánya,12000,high_volume_ent,KFC
+1fc0a02b47e2efd5f8b5f301,DNK,Aarhus,12000,high_volume_ent,McDonald's
+12cde7fbe5f34d9d4d7f2556,ROU,Timisoara,12000,high_volume_ent,Burger King
+4bf7c9af935199d6db446f3f,SRB,Belgrade,12000,high_volume_ent,Subway
+537070c64a60df652c87f45e,FIN,Helsinki,12000,high_volume_ent,Domino's Pizza
+6af4a8271890120cc0bdfcb0,EST,Tartu,12000,high_volume_ent,KFC
+a89895a395090abd6a94b012,HUN,Budapest,12000,high_volume_ent,McDonald's
+7eb3ab6211189078eff1468c,HRV,Zagreb,12000,high_volume_ent,Burger King
+764c67a65f2baf65fd88851b,CZE,Prague,12000,high_volume_ent,Subway
+585c2081812f18d83cda17b7,FIN,Oulu,12000,high_volume_ent,Domino's Pizza
+12e9016435f10ef88d7ff7fe,GEO,Tbilisi,12000,high_volume_ent,KFC
+9b854c1234920f485299ad79,GEO,Tbilisi,12000,high_volume_ent,McDonald's
+54a46388c0ff3506f669cb60,CYP,Limassol,12000,high_volume_ent,Burger King
+5f09e487c15fcf3c65089b69,HUN,Budapest,12000,high_volume_ent,Subway
+5d7aaf162ccd921ea75625c9,FIN,Turku,12000,high_volume_ent,Domino's Pizza
+a37cb75ecf8c7ef23c77265e,GEO,Tbilisi,12000,high_volume_ent,KFC
+d7cf69916e9165934bb89210,GEO,Tbilisi,12000,high_volume_ent,McDonald's
+0bd57e3c6d6e6568cbfac5cb,AZE,Baku,12000,high_volume_ent,Burger King
+3f13496f64329990ff484143,GEO,Tbilisi,12000,high_volume_ent,Subway
+d82d2820224483efec0844b3,AZE,Baku,12000,high_volume_ent,Domino's Pizza
+559ef0f6a82d3fb0db6d978d,DNK,Aalborg,12000,high_volume_ent,KFC
+16f846d5d3bfc672b3fe27d9,CYP,Limassol,12000,high_volume_ent,McDonald's
+f162f0dcdad5d100dea9df72,GEO,Tbilisi,12000,high_volume_ent,Burger King
+0a959a1bcd1918a11aff140d,AZE,Baku,12000,high_volume_ent,Subway
+18ff0a2b2267169d1d34e8ca,HRV,Rijeka,12000,high_volume_ent,Domino's Pizza
+09dd92e33ef7ca60cfe606ea,HUN,Budapest,12000,high_volume_ent,KFC
+5e9ff647249d6468905033e9,HUN,Budapest,12000,high_volume_ent,McDonald's
+ae072756c239c40e76a715ef,AZE,Baku,12000,high_volume_ent,Burger King
+e4f09cb5afdc6a2a913e5ea9,HUN,Budapest,17971,high_volume_ent,Subway
+bca888afa740d48a879f67bc,FIN,Helsinki,17934,high_volume_ent,Domino's Pizza
+3a81c3d8780bbe234fafb1d6,CYP,Nicosia,17897,high_volume_ent,KFC
+51b622894367b742232a346d,AZE,Baku,17860,high_volume_ent,McDonald's
+717fc2772a3e97607d080a10,SRB,Belgrade,17823,high_volume_ent,Burger King
+33dceac38740699a6cac2aa8,ISR,Tel Aviv,17786,high_volume_ent,Subway
+be4c707f88ac9afd7936cce3,MLT,Malta,17749,high_volume_ent,Domino's Pizza
+b64994e28d08fe0f99d5c99d,DNK,Copenhagen,17712,high_volume_ent,KFC
+bb51177214a9fa2da2c31411,GEO,Tbilisi,17675,high_volume_ent,McDonald's
+85ed51d09f8fccb449ef216a,CYP,Paphos,17638,high_volume_ent,Burger King
+e90870220c8517699700caeb,AZE,Baku,17601,high_volume_ent,Subway
+d7ea2bfef36c231fca76a442,AZE,Baku,17564,high_volume_ent,Domino's Pizza
+8d22dd3843c5bcf3755d6c1d,CYP,Limassol,17527,high_volume_ent,KFC
+4b0e545b71cbc21cf11ef1f1,FIN,Helsinki,17490,high_volume_ent,McDonald's
+a83cdb8159704b30c4938c8f,SVK,Bratislava,17453,high_volume_ent,Burger King
+96dc105bb285911128ca42d4,GEO,Tbilisi,17416,high_volume_ent,Subway
+148ead1d8d09d2dff75a6dc4,SRB,Belgrade,17379,high_volume_ent,Domino's Pizza
+ef08eced8f804f58a80a086a,HUN,Budapest,17342,high_volume_ent,KFC
+cb1103cc4a76eacd1581ca83,HRV,Zagreb,17305,high_volume_ent,McDonald's
+9733cdf62aa7829771ffcf59,GEO,Tbilisi,17268,high_volume_ent,Burger King
+2050447b8390a2e0aa172fac,HRV,Split,17231,high_volume_ent,Subway
+a8824bcb24755d329b6a23bc,HRV,Zagreb,17194,high_volume_ent,Domino's Pizza
+c4af5caf46168e207dcfb6d4,HUN,Budapest,17157,high_volume_ent,KFC
+bc0695bf50086750b3dc23ea,SVK,Bratislava,17120,high_volume_ent,McDonald's
+35585b3d070a7fb063574ebf,DNK,Copenhagen,17083,high_volume_ent,Burger King
+fec22bdedea900ef09f528ae,GEO,Tbilisi,17046,high_volume_ent,Subway
+b888b31d2050ae95202605fd,GEO,Tbilisi,17009,high_volume_ent,Domino's Pizza
+3bc2305701067b2eb4e3f5f6,DNK,Copenhagen,16972,high_volume_ent,KFC
+506b6bfc4b2853d219756410,SRB,Belgrade,16935,high_volume_ent,McDonald's
+eb242209d65560e868b0a9ad,HRV,Zagreb,16898,high_volume_ent,Burger King
+07d1215ff9e308591e068cef,GEO,Tbilisi,16861,high_volume_ent,Subway
+2573f026d95b65e4a651c519,MLT,Malta,16824,high_volume_ent,Domino's Pizza
+42fa42f21676491f5eccfe7b,AZE,Baku,16787,high_volume_ent,KFC
+5e3bd9d02e500fda25b2f74a,BGR,Sofia,8,low_volume_ent,Subway
+740e838089d6be32e97ed2e6,BGR,Burgas,9,low_volume_ent,Domino's Pizza
+e9297e709a7772e1318562e1,DEU,Wiesbaden,10,low_volume_ent,Burger King
+795057d371a2a401c350f9e5,DEU,Hamburg,11,low_volume_ent,Starbucks
+1bfab0c64352e670a08ecb09,DEU,Berlin,12,low_volume_ent,Pizza Hut
+1512b463222c6e1fdd5643b5,DEU,Stuttgart,13,low_volume_ent,Subway
+c6aa5c4a78f3d1dd896e34af,DEU,Cologne,14,low_volume_ent,Domino's Pizza
+2c263e87fe2f29f7f9716ceb,DEU,Magdeburg,15,low_volume_ent,Burger King
+4c9a04266b485293a266e50d,AUT,Vienna,16,low_volume_ent,Starbucks
+54d76093614684669f031e4d,CZE,Brno,17,low_volume_ent,Pizza Hut
+d157f22d9e76439f839aa77d,BGR,Burgas,18,low_volume_ent,Subway
+879c921312d47828003c4db3,DEU,Wuppertal,19,low_volume_ent,Domino's Pizza
+d5c22c94f108142fc54a5f9d,NOR,Stavanger,20,low_volume_ent,Burger King
+61e8ba272893fd65681295ed,DEU,Dresden,21,low_volume_ent,Starbucks
+22ddaaf3621eb410f4c0ebde,DEU,Mönchengladbach,22,low_volume_ent,Pizza Hut
+c85601c429de60d82595990b,DEU,Kassel,23,low_volume_ent,Subway
+bd06fa1ad669e4b0fcd82bd4,DEU,Ulm,24,low_volume_ent,Domino's Pizza
+79dcb4e7f1d768bc41eefcf9,AUT,Vienna,25,low_volume_ent,Burger King
+ee73df71c04c93d5334ee970,AUT,Graz,26,low_volume_ent,Starbucks
+0b4e28624eaed0660b5280dc,POL,Lublin,27,low_volume_ent,Pizza Hut
+40ead21017fb4a1c4a077061,DEU,Ulm,28,low_volume_ent,Subway
+761f22c28a7cd7b7b1436eeb,POL,Szczecin,29,low_volume_ent,Domino's Pizza
+04f4a3b5def6b0e07a04205c,DEU,Nuremberg,30,low_volume_ent,Burger King
+cf669197523ea46676a0e26c,DEU,Hamburg,31,low_volume_ent,Starbucks
+85ff0458e1468a9b09bdf15e,POL,Opole,32,low_volume_ent,Pizza Hut
+177d2a326760f2b583e2ceca,DEU,Cologne,8,low_volume_ent,Subway
+cbc48e00bbc93d619f41bb0e,POL,Warsaw,9,low_volume_ent,Domino's Pizza
+3de15028d26d373a4f14cad3,DEU,Bonn,10,low_volume_ent,Burger King
+c9e3db2f4b45fa28b230bd4d,DEU,Troisdorf und Siegburg,11,low_volume_ent,Starbucks
+fe95ef8804b91b46b392cbec,BGR,Burgas,12,low_volume_ent,Pizza Hut
+d006a6b6c66ed63f7ce499b2,DEU,Remscheid,13,low_volume_ent,Subway
+1c07755df3ac9761977cc82f,DEU,Hamburg,14,low_volume_ent,Domino's Pizza
+b866ea81698ba7943fef7c95,DEU,Gelsenkirchen,15,low_volume_ent,Burger King
+16a4dfc078f0f895fde6d3f2,DEU,Augsburg,16,low_volume_ent,Starbucks
+a430aa90b79cd9e8c0335c91,BGR,Burgas,17,low_volume_ent,Pizza Hut
+63cb4672c3818b71b73a291e,ROU,Brăila,18,low_volume_ent,Subway
+826e7f679c8dcc46a3679328,ROU,Bucharest,19,low_volume_ent,Domino's Pizza
+b0b498339fdd6d0913ee07e1,POL,Warsaw,20,low_volume_ent,Burger King
+835950af3d3754ffea8ddca5,AUT,Linz,21,low_volume_ent,Starbucks
+e9104f97d5c91cbd440746d0,DEU,Cologne,22,low_volume_ent,Pizza Hut
+0bc986fdeb5236834805269e,POL,Warsaw,23,low_volume_ent,Subway
+a67742dba6fffc9ada22192b,POL,Warsaw,24,low_volume_ent,Domino's Pizza
+d6f2da67aa872da2d6f91920,POL,Warsaw,25,low_volume_ent,Burger King
+94efb61fe53ffbf90f69a718,DEU,Kassel,26,low_volume_ent,Starbucks
+d69499d57e5bccf199ea20d7,POL,Opole,27,low_volume_ent,Pizza Hut
+6d82d8f7b0c24a07831cfb7b,POL,Gorzów Wielkopolski,28,low_volume_ent,Subway
+512f4f131e6596bd9d8fbdb4,BGR,Burgas,29,low_volume_ent,Domino's Pizza
+4bd5274106c9e7b17b8beaa2,POL,Warsaw,30,low_volume_ent,Burger King
+eecd6aa25dafdae8c6e181f2,SWE,Helsingborg,31,low_volume_ent,Starbucks
+77e4a83a967ecca1925a2bf9,DEU,Ulm,32,low_volume_ent,Pizza Hut
+26cfcc5fb96533d876db8634,CZE,Prague,8,low_volume_ent,Subway
+75883b609575dce8595edc53,POL,Kraków,9,low_volume_ent,Domino's Pizza
+f938f658d6717beb5a4f87f0,POL,Olsztyn,10,low_volume_ent,Burger King
+2b1a6f1d71b55db484cca888,POL,Wrocław,11,low_volume_ent,Starbucks
+879c1a86a8973424e1954207,BGR,Stara Zagora,12,low_volume_ent,Pizza Hut
+9b4051b12c3b8717e471b12d,POL,Warsaw,13,low_volume_ent,Subway
+36f934b21771c6a5d020a8e7,DEU,Hamburg,14,low_volume_ent,Domino's Pizza
+afe5ef4c727b8935d211bf91,POL,Aglomeracja Śląska,15,low_volume_ent,Burger King
+1217f23b6935a0d8b4c08fc1,CZE,Ostrava,16,low_volume_ent,Starbucks
+30676f05a20962113d2faeff,POL,Sosnowiec,17,low_volume_ent,Pizza Hut
+442b453f663ff17a1a040539,MLT,Malta,18,low_volume_ent,Subway
+6a0de79ef06381747a440945,POL,Aglomeracja Śląska,19,low_volume_ent,Domino's Pizza
+716e8a80362516b57bfd8793,DEU,Berlin,20,low_volume_ent,Burger King
+48872fe06ae3c63ebeddeb25,DEU,Munich,21,low_volume_ent,Starbucks
+277570d131d4790491f1ceee,AUT,Innsbruck,22,low_volume_ent,Pizza Hut
+7601092c36041d3ebf37ef43,POL,Sosnowiec,23,low_volume_ent,Subway
+4011e612bcc1b5bd86d2c9ba,DEU,Troisdorf und Siegburg,24,low_volume_ent,Domino's Pizza
+e0a388d31a9ca5e4e0446597,POL,Gorzów Wielkopolski,25,low_volume_ent,Burger King
+6a6ca8a5a557846ec6289008,POL,Zielona Góra,26,low_volume_ent,Starbucks
+b598f729be918d9a2455d225,DEU,Darmstadt,27,low_volume_ent,Pizza Hut
+ef6ba9fd240a9a005196d42b,DEU,Berlin,28,low_volume_ent,Subway
+12da11d7148f9c770db4e560,DEU,Wuppertal,29,low_volume_ent,Domino's Pizza
+8c5e806c444682d734ac3dfc,BGR,Sofia,30,low_volume_ent,Burger King
+2c59d24493367295cc9d5475,POL,Białystok,31,low_volume_ent,Starbucks
+c1b107d48800600e0a869fec,CZE,Kladno,32,low_volume_ent,Pizza Hut
+83b1b1f1db09ab9658a27d54,CZE,Teplice,8,low_volume_ent,Subway
+fa64985d3ec00eae6e8feaad,POL,Warsaw,9,low_volume_ent,Domino's Pizza
+f5d1ee16229abd904615e8b9,DEU,Magdeburg,10,low_volume_ent,Burger King
+b0386972bf5d6a9eff8bb8e0,POL,Aglomeracja Śląska,11,low_volume_ent,Starbucks
+4e2601346923f9ddbc12347a,DEU,Hamburg,12,low_volume_ent,Pizza Hut
+ea4ae9610a7912ab5b10760f,POL,Warsaw,13,low_volume_ent,Subway
+c9d6f5c5d6660209b24bd3f7,POL,Szczecin-Prawobrzeże,14,low_volume_ent,Domino's Pizza
+ad505bbebb1f9ae84098397c,CZE,Pilsen,15,low_volume_ent,Burger King
+4a00cc3a519b5c2b9fd3a58a,CZE,Teplice,16,low_volume_ent,Starbucks
+5ee950b2890afed403ac18d6,POL,Opole,17,low_volume_ent,Pizza Hut
+9aa7c7d174349cc70e3a1c16,DEU,Siegen,18,low_volume_ent,Subway
+fd3235fd0c4ef5a581e52061,POL,Warsaw,19,low_volume_ent,Domino's Pizza
+3923a81b1ce5ee08946a233f,AUT,Vienna,20,low_volume_ent,Burger King
+b9d0fb9c302d2bd0f8d540ba,FIN,Vääksy,21,low_volume_ent,Starbucks
+2204c2689c858274e8ff8d6f,POL,Wrocław,22,low_volume_ent,Pizza Hut
+97bf1b662df0b21de7f3c6cf,DEU,Cologne,23,low_volume_ent,Subway
+da8a834e7957250ae731866c,CZE,Karvina,24,low_volume_ent,Domino's Pizza
+9cffcf33467054e1f1ce0dda,POL,Warsaw,25,low_volume_ent,Burger King
+8dabb1ddd6706ac1c26c38a1,DEU,Aachen,26,low_volume_ent,Starbucks
+2b838305b707459aa725f2d0,DEU,Hamburg,27,low_volume_ent,Pizza Hut
+54505e83f9b1b18e8ef961f9,DEU,Cologne,28,low_volume_ent,Subway
+2fbbfeeb9dc37366ba8a1340,AUT,Linz,29,low_volume_ent,Domino's Pizza
+e92e262617a5f6e05bbdbab1,POL,Gliwice,30,low_volume_ent,Burger King
+a2af2d3aa532b33af4882a76,POL,Wrocław,31,low_volume_ent,Starbucks
+2327a34e44196d6af255e708,CZE,České Budějovice,32,low_volume_ent,Pizza Hut
+947c74d6b460c15a39ea886d,BGR,Sofia,8,low_volume_ent,Subway
+7821b7df990d6d77cb7c6563,BGR,Burgas,9,low_volume_ent,Domino's Pizza
+f1de6e04297a70b491f8e792,DEU,Wiesbaden,10,low_volume_ent,Burger King
+ff66b4098a9d48e6edb0c1dc,DEU,Hamburg,11,low_volume_ent,Starbucks
+cf382abbb1f21577ae45ed7e,DEU,Berlin,12,low_volume_ent,Pizza Hut
+b866e7f27e002047235a3b5f,DEU,Stuttgart,13,low_volume_ent,Subway
+cee7c8ddf159ef02f64086a3,DEU,Cologne,14,low_volume_ent,Domino's Pizza
+bd7c5e89e281d653ca085b0c,DEU,Magdeburg,15,low_volume_ent,Burger King
+76ec471bb0b838bb55b81783,AUT,Vienna,16,low_volume_ent,Starbucks
+7c5b1b5ceae7c2030fd64f41,CZE,Brno,17,low_volume_ent,Pizza Hut
+001dc32c6e4ff5027ba0e08e,BGR,Burgas,18,low_volume_ent,Subway
+3a28a6b5347d5a2d3e4e0ae1,DEU,Wuppertal,19,low_volume_ent,Domino's Pizza
+7d77c6cc14470a13e0b076f4,NOR,Stavanger,20,low_volume_ent,Burger King
+17a1dd158593ce8ff3477d14,DEU,Dresden,21,low_volume_ent,Starbucks
+715e33aef03ef25105a83c2f,DEU,Mönchengladbach,22,low_volume_ent,Pizza Hut
+3b8efcee9f0f833ddc7b7007,DEU,Kassel,23,low_volume_ent,Subway
+750423c6931ac4b7132562d9,DEU,Ulm,24,low_volume_ent,Domino's Pizza
+67cd5440df966068ded109f8,AUT,Vienna,25,low_volume_ent,Burger King
+e81c6d9e1b231e0f2eb6a60c,AUT,Graz,26,low_volume_ent,Starbucks
+a106bebffe406271a0d0b31c,POL,Lublin,27,low_volume_ent,Pizza Hut
+7fe1505a9d11477411bbc9af,DEU,Ulm,28,low_volume_ent,Subway
+3e1e2ddc8cb2a4bcbb3bd28c,POL,Szczecin,29,low_volume_ent,Domino's Pizza
+d9ee6cb49ebe40530d4157d6,DEU,Nuremberg,30,low_volume_ent,Burger King
+73e3bc64f6235a6b13e0f787,DEU,Hamburg,31,low_volume_ent,Starbucks
+a127e8c7262ae51890f3a43c,POL,Opole,32,low_volume_ent,Pizza Hut
+d59c40847c4f086f8d3decde,DEU,Cologne,8,low_volume_ent,Subway
+581b72aab819d36a8b2b5cbb,POL,Warsaw,9,low_volume_ent,Domino's Pizza
+217859c247b76aaaaa454ee2,DEU,Bonn,10,low_volume_ent,Burger King
+2e614d4eb8c4fb3190962ec4,DEU,Troisdorf und Siegburg,11,low_volume_ent,Starbucks
+b322748aa4b6bca7a33e1233,BGR,Burgas,12,low_volume_ent,Pizza Hut
+9320f605f3340bed8a50a02c,DEU,Remscheid,13,low_volume_ent,Subway
+85c275d65dfac2aa571b341d,DEU,Hamburg,14,low_volume_ent,Domino's Pizza
+9b5089de292a8173d2bd22ab,DEU,Gelsenkirchen,15,low_volume_ent,Burger King
+e34266cafecca16fe9d2e2ca,DEU,Augsburg,16,low_volume_ent,Starbucks
+267ef8f1d7744ff44bdf252a,BGR,Burgas,17,low_volume_ent,Pizza Hut
+7fc2b38867767953ba307315,ROU,Brăila,18,low_volume_ent,Subway
+d74fc4913d2ce5c904eb7afe,ROU,Bucharest,19,low_volume_ent,Domino's Pizza
+517cb5122081bb37899dc9b1,POL,Warsaw,20,low_volume_ent,Burger King
+4a6262dffdba2c6c0e9838f3,AUT,Linz,21,low_volume_ent,Starbucks
+6062789afbf29e9ec5bb4588,DEU,Cologne,22,low_volume_ent,Pizza Hut
+ab1f10d95ccf1e4d514181bf,POL,Warsaw,23,low_volume_ent,Subway
+1fe59ff9ff950235b685802d,POL,Warsaw,24,low_volume_ent,Domino's Pizza
+a1c255d1d7dbc18c37dadf84,POL,Warsaw,25,low_volume_ent,Burger King
+1bdb208a927e4f81bdbfd853,DEU,Kassel,26,low_volume_ent,Starbucks
+34aca9e3097cba744f165a39,POL,Opole,27,low_volume_ent,Pizza Hut
+9f5f32f393760277f4eab8c8,POL,Gorzów Wielkopolski,28,low_volume_ent,Subway
+dbf10c97e2b20ea453d07c05,BGR,Burgas,29,low_volume_ent,Domino's Pizza
+0e25391e8cd275575c587a1b,POL,Warsaw,30,low_volume_ent,Burger King
+0c5cc111926156f8e87a77df,SWE,Helsingborg,31,low_volume_ent,Starbucks
+6238c980b9789795612300ee,DEU,Ulm,32,low_volume_ent,Pizza Hut
+b030c437cba54fdaaf5faaac,CZE,Prague,8,low_volume_ent,Subway
+f34074ce8b8f7680ce372cd9,POL,Kraków,9,low_volume_ent,Domino's Pizza
+ec59f26341394aa59954404b,POL,Olsztyn,10,low_volume_ent,Burger King
+d249f395095011e6656339b3,POL,Wrocław,11,low_volume_ent,Starbucks
+266758e62b0f7ef344481c6b,BGR,Stara Zagora,12,low_volume_ent,Pizza Hut
+41bc1fe9c841014eeee05869,POL,Warsaw,13,low_volume_ent,Subway
+06a382a55074f22166af6bbf,DEU,Hamburg,14,low_volume_ent,Domino's Pizza
+df6cd5b6f4ec7b9c1fba6f92,POL,Aglomeracja Śląska,15,low_volume_ent,Burger King
+1179fc9f1b0a0b12b87b3ace,CZE,Ostrava,16,low_volume_ent,Starbucks
+c158e512c7488b7dbe8c46e7,POL,Sosnowiec,17,low_volume_ent,Pizza Hut
+06d8718257e2ac7f83eb5c1a,MLT,Malta,18,low_volume_ent,Subway
+187359877d1e2f71b946f213,POL,Aglomeracja Śląska,19,low_volume_ent,Domino's Pizza
+f3db58719fb3bf129b82c969,DEU,Berlin,20,low_volume_ent,Burger King
+88751bc2dfb4fd6d52f617d8,DEU,Munich,21,low_volume_ent,Starbucks
+8f975226d1489f79febe1f8f,AUT,Innsbruck,22,low_volume_ent,Pizza Hut
+508f8a0f63faaa83ff9d2647,POL,Sosnowiec,23,low_volume_ent,Subway
+749abd036196d5df088474bb,DEU,Troisdorf und Siegburg,24,low_volume_ent,Domino's Pizza
+55671f438f6bb2fcadf67ec4,POL,Gorzów Wielkopolski,25,low_volume_ent,Burger King
+1e24251ba30bf9ddaf197231,POL,Zielona Góra,26,low_volume_ent,Starbucks
+984dddccd4c3372010f3b99e,DEU,Darmstadt,27,low_volume_ent,Pizza Hut
+3cda1cc90cb1e5d00b43cf43,DEU,Berlin,28,low_volume_ent,Subway
+369f80fbcbb1f51abde40d75,DEU,Wuppertal,29,low_volume_ent,Domino's Pizza
+5cf77fec3b0458c0237b67ed,BGR,Sofia,30,low_volume_ent,Burger King
+16c1c61ebca7dc8898fb92f0,POL,Białystok,31,low_volume_ent,Starbucks
+11ad74db3c3ab63cd9be63a5,CZE,Kladno,32,low_volume_ent,Pizza Hut
+3026525e7ebbd59177f8fc8a,CZE,Teplice,8,low_volume_ent,Subway
+13bcd87481604af066d3b65a,POL,Warsaw,9,low_volume_ent,Domino's Pizza
+9fc5d1b7c44ca36c4b892a20,DEU,Magdeburg,10,low_volume_ent,Burger King
+267fd26ea9c2590b937a3123,POL,Aglomeracja Śląska,11,low_volume_ent,Starbucks
+1c9c2e9cf71084929a074351,DEU,Hamburg,12,low_volume_ent,Pizza Hut
+1ae1bcce994b2201f6890f86,POL,Warsaw,13,low_volume_ent,Subway
+835cc64f69351327c349fc6e,POL,Szczecin-Prawobrzeże,14,low_volume_ent,Domino's Pizza
+366f82d78feae26b39ea706d,CZE,Pilsen,15,low_volume_ent,Burger King
+baf9accff45a8cfc8f26ac83,CZE,Teplice,16,low_volume_ent,Starbucks
+69a932ba2b6cc4e16913905c,POL,Opole,17,low_volume_ent,Pizza Hut
+3dfdb4368afabab54105e3c5,DEU,Siegen,18,low_volume_ent,Subway
+b84cea29400ba323e15055b5,POL,Warsaw,19,low_volume_ent,Domino's Pizza
+52d75166076384a124a059f1,AUT,Vienna,20,low_volume_ent,Burger King
+0561a9a7d0d03035f3ea0913,FIN,Vääksy,21,low_volume_ent,Starbucks
+e9c3483fb744db503309ef46,POL,Wrocław,22,low_volume_ent,Pizza Hut
+d175054d0452a421786f397d,DEU,Cologne,23,low_volume_ent,Subway
+696f48883f7ecfc4bc541954,CZE,Karvina,24,low_volume_ent,Domino's Pizza
+3cee83ecb16b1895715e5657,POL,Warsaw,25,low_volume_ent,Burger King
+9ff029ad7c66803d223ddd54,DEU,Aachen,26,low_volume_ent,Starbucks
+0e20a8741133f7415c0e591e,DEU,Hamburg,27,low_volume_ent,Pizza Hut
+4f3fc5150f937ed0b79b97d3,DEU,Cologne,28,low_volume_ent,Subway
+0a3bb2c73d1885d62531dc9a,AUT,Linz,29,low_volume_ent,Domino's Pizza
+a3d9a629bacb38f7ad59ae13,POL,Gliwice,30,low_volume_ent,Burger King
+548425b242bbf03f3af643de,POL,Wrocław,31,low_volume_ent,Starbucks
+4178dcadc81fc0663fb22597,CZE,České Budějovice,32,low_volume_ent,Pizza Hut
+93b9389d59f1b8a6bb27a421,BGR,Sofia,8,low_volume_ent,Subway
+4aca1b80d2a8de121d64da05,BGR,Burgas,9,low_volume_ent,Domino's Pizza
+abc7d7e1f734eb911c1c254b,DEU,Wiesbaden,10,low_volume_ent,Burger King
+e8f3c0f5b5e923b65a4c5f7b,DEU,Hamburg,11,low_volume_ent,Starbucks
+64fcb7d1f8d499fc28cb400a,DEU,Berlin,12,low_volume_ent,Pizza Hut
+79d07f297cb0a3522265cdba,DEU,Stuttgart,13,low_volume_ent,Subway
+69777b4cfc738031ed614af4,DEU,Cologne,14,low_volume_ent,Domino's Pizza
+dd57a4f8a2e42208db3743a5,DEU,Magdeburg,15,low_volume_ent,Burger King
+bda94b58bbe597738ccda722,AUT,Vienna,16,low_volume_ent,Starbucks
+f05561ad5ac5c39f604b3191,CZE,Brno,17,low_volume_ent,Pizza Hut
+035837e0e9724695efd7adae,BGR,Burgas,18,low_volume_ent,Subway
+463801b795924dd2ef161570,DEU,Wuppertal,19,low_volume_ent,Domino's Pizza
+221f17b68592fc5423960cf3,NOR,Stavanger,20,low_volume_ent,Burger King
+ce21d0d6213d07b38b56a38e,DEU,Dresden,21,low_volume_ent,Starbucks
+6d4c03b6998852c1663eb009,DEU,Mönchengladbach,22,low_volume_ent,Pizza Hut
+0c69723b797cf3e73e853993,DEU,Kassel,23,low_volume_ent,Subway
+647cefeef47d260712fd648b,DEU,Ulm,24,low_volume_ent,Domino's Pizza
+4cdb7be6750f3ad23a2e8662,AUT,Vienna,25,low_volume_ent,Burger King
+411998a3f273b3f0f09d32ff,AUT,Graz,26,low_volume_ent,Starbucks
+f6ac368673a24625f49cad8d,POL,Lublin,27,low_volume_ent,Pizza Hut
+d1bf43ab1bd2525e2036aae6,DEU,Ulm,28,low_volume_ent,Subway
+1d9f583decfa66c6f8760ea8,POL,Szczecin,29,low_volume_ent,Domino's Pizza
+3562f2da74603b408b9130ec,DEU,Nuremberg,30,low_volume_ent,Burger King
+ca4d2445848015113369a74e,DEU,Hamburg,31,low_volume_ent,Starbucks
+e163a7882e6cc3978bece81e,POL,Opole,32,low_volume_ent,Pizza Hut
+65e2d8d5ac1717536f8e37f3,DEU,Cologne,8,low_volume_ent,Subway
+8beb2732e9343dd8cdb26dda,POL,Warsaw,9,low_volume_ent,Domino's Pizza
+83cdeb24437d671524256351,DEU,Bonn,10,low_volume_ent,Burger King
+e1b244f43f86f23bbe0c1796,DEU,Troisdorf und Siegburg,11,low_volume_ent,Starbucks
+9ed904a814af21df02cb2034,BGR,Burgas,12,low_volume_ent,Pizza Hut
+90db6678f34b6c1086d7924e,DEU,Remscheid,13,low_volume_ent,Subway
+2a2b48572e1c849e75cc1821,DEU,Hamburg,14,low_volume_ent,Domino's Pizza
+0eafe1d74c9e14663a1ad3af,DEU,Gelsenkirchen,15,low_volume_ent,Burger King
+02f2945f2f62d2f3295ac6d6,DEU,Augsburg,16,low_volume_ent,Starbucks
+12bef8a9049f835d9f766141,BGR,Burgas,17,low_volume_ent,Pizza Hut
+e96d6e0195b57240ce742eb1,ROU,Brăila,18,low_volume_ent,Subway
+1d91e993e043d40758a7e150,ROU,Bucharest,19,low_volume_ent,Domino's Pizza
+d52d5fd2316d3d44ea5e53b0,POL,Warsaw,20,low_volume_ent,Burger King
+7bc565e6cf973c6c4a1a9d9f,AUT,Linz,21,low_volume_ent,Starbucks
+cf523e11c1264285c72e3549,DEU,Cologne,22,low_volume_ent,Pizza Hut
+988f953b6d5529f52ef6ea72,POL,Warsaw,23,low_volume_ent,Subway
+eb699512382ffd84335fdc30,POL,Warsaw,24,low_volume_ent,Domino's Pizza
+73b472509d11b8431b072828,POL,Warsaw,25,low_volume_ent,Burger King
+ab83d484f895abd9247758e4,DEU,Kassel,26,low_volume_ent,Starbucks
+9bafa8f6ba228dbd68905f9d,POL,Opole,27,low_volume_ent,Pizza Hut
+5b37503a7f048a10e92487f9,POL,Gorzów Wielkopolski,28,low_volume_ent,Subway
+f8c446cb5c30416a993430a1,BGR,Burgas,29,low_volume_ent,Domino's Pizza
+d3b746c1f021daac301aa2d0,POL,Warsaw,30,low_volume_ent,Burger King
+c3b35d0d1c92cd922c7eba06,SWE,Helsingborg,31,low_volume_ent,Starbucks
+918918b6f4b4bc2a2575d526,DEU,Ulm,32,low_volume_ent,Pizza Hut

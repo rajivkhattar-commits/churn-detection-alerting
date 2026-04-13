@@ -1,0 +1,6 @@
+venue_id,product,churn_type,churn_date,notes
+632309a7b3af1635e2705043,classic,soft,2025-02-15,MCP ask_wolt narrative: franchisee locations — soft churn / 28d activity threshold (illustrative)
+64fee0479799d16e34a40fb8,wolt_plus,operational,2025-08-22,MCP: Wolt+ acceptance disabled mid-contract; Classic may continue
+5ff750cb2340c577df92d140,takeaway_pickup,hard,2025-05-10,MCP: insolvency / venue unpublished — hard churn
+5beea1e19a25b7000a89bc8b,drive,soft,2025-11-18,MCP: Drive pilot ended — B2B logistics volume to zero
+6566ea513409eb2a350cc351,wolt_for_work,operational,2025-09-01,Synthetic follow-on: WfW program paused — ops churn (demo pairing with stressed features)

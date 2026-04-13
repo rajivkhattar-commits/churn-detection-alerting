@@ -1,0 +1,3 @@
+run_id,venue_id,merchant_id,market,country_code,product_code,as_of_date,scored_at,risk_score,churn_type_hard_prob,churn_type_soft_prob,churn_type_operational_prob,model_version,source_system
+run-20260413-a,632309a7b3af1635e2705043,,Tbilisi,GE,classic,2026-04-13,2026-04-13T10:00:00Z,0.42,0.12,0.21,0.09,baseline_v1,churn_detection_api_export
+run-20260413-a,6566ea513409eb2a350cc351,,Tbilisi,GE,wolt_for_work,2026-04-13,2026-04-13T10:00:00Z,0.88,0.22,0.31,0.35,baseline_v1,churn_detection_api_export

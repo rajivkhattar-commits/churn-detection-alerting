@@ -1,0 +1,4205 @@
+{
+  "source": "data/demo_venues.csv \u2014 demo ENT list with brands (MCP/Snowflake-backed where refreshed).",
+  "by_venue_id": {
+    "632309a7b3af1635e2705043": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "64fee0479799d16e34a40fb8": {
+      "brand_name": "McDonald's",
+      "city": "Limassol",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "5ff750cb2340c577df92d140": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5beea1e19a25b7000a89bc8b": {
+      "brand_name": "McDonald's",
+      "city": "Turku",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "6566ea513409eb2a350cc351": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "66d6ca0474cccc0fe02afcf9": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "661fa8c9f53b056042fb8f08": {
+      "brand_name": "McDonald's",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "63243fffd6492075ea2a13ee": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "5df0e9a4212d710c49dec732": {
+      "brand_name": "McDonald's",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "5e4a85811b4848464ad09ee9": {
+      "brand_name": "McDonald's",
+      "city": "Aalborg",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "6489889737cfb69468c733fc": {
+      "brand_name": "McDonald's",
+      "city": "Limassol",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "5e7360918839e280359b147f": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "6728d5accf84f28336f9bb25": {
+      "brand_name": "McDonald's",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "61964aece26d40c6faa6fa33": {
+      "brand_name": "McDonald's",
+      "city": "Rijeka",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "5ff7493c4c91e256e92b6ef8": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5fedcde654339b0b58141abf": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "61b99dce32d415f931b94521": {
+      "brand_name": "McDonald's",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "5ff7537f1894f58d787e4aa5": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "62e28899648857346729f666": {
+      "brand_name": "McDonald's",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "6464ce7af2dee546eccbc0ee": {
+      "brand_name": "McDonald's",
+      "city": "Nicosia",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "5fdcaa2d4994522c026e94a9": {
+      "brand_name": "McDonald's",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "61dd4c7e9dbea198b62c2576": {
+      "brand_name": "McDonald's",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "5e208bdc5aa741bca394591f": {
+      "brand_name": "McDonald's",
+      "city": "Tel Aviv",
+      "country_code": "ISR",
+      "volume_segment": "high_volume_ent"
+    },
+    "5ee284da99add9ec8cc73ffd": {
+      "brand_name": "McDonald's",
+      "city": "Malta",
+      "country_code": "MLT",
+      "volume_segment": "high_volume_ent"
+    },
+    "6568bb3de0e25951212ebe0b": {
+      "brand_name": "McDonald's",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "6323043cdd87858d27b4d10d": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "63f3951ca4c241e42e2b0387": {
+      "brand_name": "McDonald's",
+      "city": "Paphos",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "5e77659f48e7d164d7d1d459": {
+      "brand_name": "McDonald's",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "5d3035d17c5a541646bcec97": {
+      "brand_name": "McDonald's",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "64524a2604076428997c2ec8": {
+      "brand_name": "McDonald's",
+      "city": "Limassol",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "664da8e02b117f45247ad49b": {
+      "brand_name": "McDonald's",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5e7e09adad8f1f323ad8cd6a": {
+      "brand_name": "McDonald's",
+      "city": "Bratislava",
+      "country_code": "SVK",
+      "volume_segment": "high_volume_ent"
+    },
+    "63230798cffc1afbe2a0007e": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "61dd53304270ffb2a68017f9": {
+      "brand_name": "McDonald's",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "5ff7545b0f2049ecfbdfabed": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5cebedf079bb8c4e499bd4de": {
+      "brand_name": "McDonald's",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "682b26def2038dd1c6d96601": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "5f283bd21611582419efbca4": {
+      "brand_name": "McDonald's",
+      "city": "Split",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "61710d08cf3b52687f25f0ae": {
+      "brand_name": "McDonald's",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "5fedcd1f3d699b878552965d": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5e2085a9cc063900b8072e27": {
+      "brand_name": "McDonald's",
+      "city": "Bratislava",
+      "country_code": "SVK",
+      "volume_segment": "high_volume_ent"
+    },
+    "6704e288d5fd1a167abc3047": {
+      "brand_name": "McDonald's",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "5e73564d9726d7fa7a22bf27": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "5e7361679726d7fa7a22d66a": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "5ba4b416b901f8000c74fa99": {
+      "brand_name": "McDonald's",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "61dd6cabffedd36a2b2d79c3": {
+      "brand_name": "McDonald's",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "61964329670223f90b71fc50": {
+      "brand_name": "McDonald's",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "6323114b61f7c3974205e533": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "5e8dd20cc4816a945535d620": {
+      "brand_name": "McDonald's",
+      "city": "Malta",
+      "country_code": "MLT",
+      "volume_segment": "high_volume_ent"
+    },
+    "67d28b1d93c22aed75318585": {
+      "brand_name": "McDonald's",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "5ddd4dae0d49de7efd40dea9": {
+      "brand_name": "McDonald's",
+      "city": "Oslo",
+      "country_code": "NOR",
+      "volume_segment": "high_volume_ent"
+    },
+    "619636d1a4f13a08fff2c059": {
+      "brand_name": "McDonald's",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "61963ef9938c58a90c37ac79": {
+      "brand_name": "McDonald's",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "5ae60015edc5e9000dc986c0": {
+      "brand_name": "McDonald's",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5eec98680d411611c9bc2b5a": {
+      "brand_name": "McDonald's",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "5ff73e7dafc2579c437eb6a8": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5ba4b13262e098000c10c662": {
+      "brand_name": "McDonald's",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "5d7a427c14038232bab3abee": {
+      "brand_name": "McDonald's",
+      "city": "Tampere",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "6322f1172a7bb6c9278dccb5": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "5ff74e7c9411c2a35292d1a7": {
+      "brand_name": "McDonald's",
+      "city": "Debrecen",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "60e5562c515d19ca03efe6c4": {
+      "brand_name": "McDonald's",
+      "city": "Vaasa",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5fedcf563d699b87855299c5": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "6322f87c8c40b3e7987356ef": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "6322ecc5a01009aea9692f66": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "5ff742a59411c2a35292bade": {
+      "brand_name": "McDonald's",
+      "city": "Szeged",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5fedcc44313546da14f17375": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "6703976f14b1855cba3b1940": {
+      "brand_name": "McDonald's",
+      "city": "Espoo",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "6441980d16b6fa967941d6e9": {
+      "brand_name": "McDonald's",
+      "city": "Larnaca",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "5ff75541f54026e5d57e59c1": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5c631f5027d21b000a69986c": {
+      "brand_name": "McDonald's",
+      "city": "Espoo",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5e2093b614f822db09948a02": {
+      "brand_name": "McDonald's",
+      "city": "Bratislava",
+      "country_code": "SVK",
+      "volume_segment": "high_volume_ent"
+    },
+    "6601742b54384421d315fc07": {
+      "brand_name": "McDonald's",
+      "city": "Ljubljana",
+      "country_code": "SVN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5cfa204e9fd280768ff692f1": {
+      "brand_name": "McDonald's",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "5d30dcbdbac78b444f8e2848": {
+      "brand_name": "McDonald's",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "5f283cac7656546b87f35deb": {
+      "brand_name": "McDonald's",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "6421797460b46b2959ad26a5": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "6582cc9c816d0a2af6216225": {
+      "brand_name": "McDonald's",
+      "city": "Rovaniemi",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "62835d3f3ba2b1a8ef6b194c": {
+      "brand_name": "McDonald's",
+      "city": "Nur-Sultan",
+      "country_code": "KAZ",
+      "volume_segment": "high_volume_ent"
+    },
+    "638e0ccdd9277bc8df7d1291": {
+      "brand_name": "McDonald's",
+      "city": "\u00d6rebro",
+      "country_code": "SWE",
+      "volume_segment": "high_volume_ent"
+    },
+    "61964d2accf7ff263e8430cd": {
+      "brand_name": "McDonald's",
+      "city": "Split",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "5efda79eae3980cdc6b0102c": {
+      "brand_name": "McDonald's",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "62e289dcafed88f001e2db17": {
+      "brand_name": "McDonald's",
+      "city": "Vantaa",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "62556a0ad23c3be7082b1bba": {
+      "brand_name": "McDonald's",
+      "city": "Oslo",
+      "country_code": "NOR",
+      "volume_segment": "high_volume_ent"
+    },
+    "682db6e04efc77897e29fbb7": {
+      "brand_name": "McDonald's",
+      "city": "Nur-Sultan",
+      "country_code": "KAZ",
+      "volume_segment": "high_volume_ent"
+    },
+    "5e7b8de7a7a5e36f91c7b17b": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5d7a407a1764a34db015a18c": {
+      "brand_name": "McDonald's",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5fec6b3fc4f10af0756917e2": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "63231be92c9f421886bd9135": {
+      "brand_name": "McDonald's",
+      "city": "Batumi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "6322e7ddc0c749aab9125872": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "6152e8af3fa24e900baf804c": {
+      "brand_name": "McDonald's",
+      "city": "Tatab\u00e1nya",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "623346a5a40a69c9e46ef5fd": {
+      "brand_name": "McDonald's",
+      "city": "Aarhus",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "67ed2703c86a467a0cecf3f0": {
+      "brand_name": "McDonald's",
+      "city": "Timisoara",
+      "country_code": "ROU",
+      "volume_segment": "high_volume_ent"
+    },
+    "61dd66116fba0b7939f9582d": {
+      "brand_name": "McDonald's",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "5ae6013cf78b5a000bb64022": {
+      "brand_name": "McDonald's",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5b30b0e894822b000bd1f900": {
+      "brand_name": "McDonald's",
+      "city": "Tartu",
+      "country_code": "EST",
+      "volume_segment": "high_volume_ent"
+    },
+    "600ac8d4e2022554bc325e87": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5f2841db1611582419efc999": {
+      "brand_name": "McDonald's",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "650abb05f0dbd8a48113601f": {
+      "brand_name": "McDonald's",
+      "city": "Prague",
+      "country_code": "CZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "5e83518df638003969216699": {
+      "brand_name": "McDonald's",
+      "city": "Oulu",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "67f7ad1e241a3210c34bd108": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "68497f6a18487f996b7cc865": {
+      "brand_name": "Starbucks",
+      "city": "Sofia",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "69b96a141f721bbffd065af7": {
+      "brand_name": "Starbucks",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "68d55b4e58549f0b8edbc1e7": {
+      "brand_name": "KFC",
+      "city": "Wiesbaden",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "61768ea39b3a4d0951ff41f0": {
+      "brand_name": "Dunkin' Donuts",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "615c3a162ca8e18293e4c1ed": {
+      "brand_name": "Subway",
+      "city": "Berlin",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "69b195694a7a0cd74f081453": {
+      "brand_name": "McDonald's",
+      "city": "Stuttgart",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "69971afa056a28fecfda6d9d": {
+      "brand_name": "Subway",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "69971855e9bc4033e3de1e71": {
+      "brand_name": "Subway",
+      "city": "Magdeburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "68b1c9a67bbbc776e3fbadc1": {
+      "brand_name": "Dunkin' Donuts",
+      "city": "Vienna",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "65115cad451c8e0c965a9fd4": {
+      "brand_name": "Burger King",
+      "city": "Brno",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "69a96b858bf88829375f5ff6": {
+      "brand_name": "Subway",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "655f21f341932a8077519237": {
+      "brand_name": "Domino's Pizza",
+      "city": "Wuppertal",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "5fc796a4aa565fcfffac4c17": {
+      "brand_name": "McDonald's",
+      "city": "Stavanger",
+      "country_code": "NOR",
+      "volume_segment": "low_volume_ent"
+    },
+    "6576edcd243dd667b62621c9": {
+      "brand_name": "Domino's Pizza",
+      "city": "Dresden",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "699714e415ebf0c41de4f964": {
+      "brand_name": "Subway",
+      "city": "M\u00f6nchengladbach",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "6576ef052c27ca2eb180c9d9": {
+      "brand_name": "Domino's Pizza",
+      "city": "Kassel",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "6996cbb67f7401f7a5977dbc": {
+      "brand_name": "Subway",
+      "city": "Ulm",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "67f92fdf35482e8026ddca5f": {
+      "brand_name": "Burger King",
+      "city": "Vienna",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "660ffe5a8ff13d1395e1a207": {
+      "brand_name": "Dunkin' Donuts",
+      "city": "Graz",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "67a5e0e4ecca4b79a68d8675": {
+      "brand_name": "Subway",
+      "city": "Lublin",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "6996cccc6e1099b4ddf77284": {
+      "brand_name": "Dunkin' Donuts",
+      "city": "Ulm",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "692eeb599a439802ee57ee79": {
+      "brand_name": "Starbucks",
+      "city": "Szczecin",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "66506ca920804e4ba9578180": {
+      "brand_name": "Dunkin' Donuts",
+      "city": "Nuremberg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "679cfd3a98f12f19190347a1": {
+      "brand_name": "Burger King",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "69807024efa3639d006d327b": {
+      "brand_name": "Pizza Hut",
+      "city": "Opole",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "698c8188eecb7a351611721b": {
+      "brand_name": "Subway",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "69cb936d7240355821bb0e10": {
+      "brand_name": "Papa John's",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "69bbfee974b4dff2ee86ae6c": {
+      "brand_name": "Subway",
+      "city": "Bonn",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "673375caa90a2a081ae406b3": {
+      "brand_name": "Subway",
+      "city": "Troisdorf und Siegburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "69b3ee2319769dd9241c9491": {
+      "brand_name": "McDonald's",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "6996c8154018da6190cd2bb6": {
+      "brand_name": "McDonald's",
+      "city": "Remscheid",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "691f276900c948e778ab5dd8": {
+      "brand_name": "Burger King",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "6929acd18797d63ee3dd447e": {
+      "brand_name": "Burger King",
+      "city": "Gelsenkirchen",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "65158a608ea23e19fb72f448": {
+      "brand_name": "Burger King",
+      "city": "Augsburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "69b3e9ef19769dd9241c9461": {
+      "brand_name": "McDonald's",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "67ee78ef52cb5df735582f9d": {
+      "brand_name": "Starbucks",
+      "city": "Br\u0103ila",
+      "country_code": "ROU",
+      "volume_segment": "low_volume_ent"
+    },
+    "67dd61fd58b9333668d2dcd3": {
+      "brand_name": "Domino's Pizza",
+      "city": "Bucharest",
+      "country_code": "ROU",
+      "volume_segment": "low_volume_ent"
+    },
+    "69c3fec8e54b2e2832f6da29": {
+      "brand_name": "KFC",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "6878cbf24b4f9b3ac41db750": {
+      "brand_name": "Dunkin' Donuts",
+      "city": "Linz",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "699718ab54f133f8b214c6ab": {
+      "brand_name": "Subway",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "69833a4dae7b768aa2dd805a": {
+      "brand_name": "McDonald's",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "69414e77846afc1279c02a53": {
+      "brand_name": "Pizza Hut",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "6985af43f5f42a5531cb9627": {
+      "brand_name": "McDonald's",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "655df195be9adc7fd154cf50": {
+      "brand_name": "Subway",
+      "city": "Kassel",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "698063277072d597ebb02fe8": {
+      "brand_name": "KFC",
+      "city": "Opole",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "699dbe64b8fecfeea4bcfb75": {
+      "brand_name": "McDonald's",
+      "city": "Gorz\u00f3w Wielkopolski",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "699b18920113044d248618b2": {
+      "brand_name": "Subway",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "685e69630459856ce4a4879a": {
+      "brand_name": "Burger King",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "68efb2e480b65faef1025475": {
+      "brand_name": "Subway",
+      "city": "Helsingborg",
+      "country_code": "SWE",
+      "volume_segment": "low_volume_ent"
+    },
+    "6996cbf9905f869fbfe3a5db": {
+      "brand_name": "Subway",
+      "city": "Ulm",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "65116656a799d03df0d6d464": {
+      "brand_name": "Burger King",
+      "city": "Prague",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "69b92fa261b1379b04e777d6": {
+      "brand_name": "KFC",
+      "city": "Krak\u00f3w",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "69bc0a3d942956f86d2c91e4": {
+      "brand_name": "McDonald's",
+      "city": "Olsztyn",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "69cb7e07f7ce6d9bf2c9d6eb": {
+      "brand_name": "Papa John's",
+      "city": "Wroc\u0142aw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "69b402f930f41ada8954c2cb": {
+      "brand_name": "Subway",
+      "city": "Stara Zagora",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "68626d895cb65dd53f247e15": {
+      "brand_name": "Domino's Pizza",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "6969054e111bdc7dcf857b36": {
+      "brand_name": "Subway",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "67addde69dcdef28bd403957": {
+      "brand_name": "Max Burger",
+      "city": "Aglomeracja \u015al\u0105ska",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "658ecd0949d96d6e9498953a": {
+      "brand_name": "Burger King",
+      "city": "Ostrava",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "67e52512926781259a18d1ac": {
+      "brand_name": "Domino's Pizza",
+      "city": "Sosnowiec",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "626fbe2b75daa64946309b92": {
+      "brand_name": "McDonald's",
+      "city": "Malta",
+      "country_code": "MLT",
+      "volume_segment": "low_volume_ent"
+    },
+    "67dd686471603691a3e9eb3b": {
+      "brand_name": "Max Burger",
+      "city": "Aglomeracja \u015al\u0105ska",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "699710568eb03ae77afd9cfb": {
+      "brand_name": "Subway",
+      "city": "Berlin",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "69baa719a85dad0abb2a4d8c": {
+      "brand_name": "Starbucks",
+      "city": "Munich",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "6995d486da5b70653224295e": {
+      "brand_name": "Dunkin' Donuts",
+      "city": "Innsbruck",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "68f89feecb6a06c1ae47b79e": {
+      "brand_name": "KFC",
+      "city": "Sosnowiec",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "6526acabae327f4b971dbe32": {
+      "brand_name": "Subway",
+      "city": "Troisdorf und Siegburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "69845f114204893b3c4d8993": {
+      "brand_name": "KFC",
+      "city": "Gorz\u00f3w Wielkopolski",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "69c51763293688a6b8adeab5": {
+      "brand_name": "Domino's Pizza",
+      "city": "Zielona G\u00f3ra",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "65cde8cf0e716f00ee8f2dea": {
+      "brand_name": "Pizza Hut",
+      "city": "Darmstadt",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "69930c492331f7c69bc46c64": {
+      "brand_name": "Domino's Pizza",
+      "city": "Berlin",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "65782370da3cc14baf02ec31": {
+      "brand_name": "Domino's Pizza",
+      "city": "Wuppertal",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "684562eddf34da57a4bcc9b9": {
+      "brand_name": "Starbucks",
+      "city": "Sofia",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "699ec51c454b9353d1f5e025": {
+      "brand_name": "McDonald's",
+      "city": "Bia\u0142ystok",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "65117f6b05802434bd4a6594": {
+      "brand_name": "Burger King",
+      "city": "Kladno",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "65115e2cc42f6f8fbbfcf42a": {
+      "brand_name": "Burger King",
+      "city": "Teplice",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "684c1761afb17ef1b3c5e520": {
+      "brand_name": "Starbucks",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "691b20b7e209d8ad51c9412c": {
+      "brand_name": "Subway",
+      "city": "Magdeburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "6750637fb9224f72314c25b6": {
+      "brand_name": "Domino's Pizza",
+      "city": "Aglomeracja \u015al\u0105ska",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "699868e647ea3a0275e787f6": {
+      "brand_name": "Starbucks",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "68d1604f8c93e9fd538a0fdd": {
+      "brand_name": "Max Burger",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "68777be9da99c8f2d94f196d": {
+      "brand_name": "KFC",
+      "city": "Szczecin-Prawobrze\u017ce",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "65118ffb71d0d43d5ff5d382": {
+      "brand_name": "Burger King",
+      "city": "Pilsen",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "69c676e26c751d494511986a": {
+      "brand_name": "Burger King",
+      "city": "Teplice",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "6981ec2cc7118e66a6aa3ec6": {
+      "brand_name": "Subway",
+      "city": "Opole",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "6996b7aaef6d8a0881d598d1": {
+      "brand_name": "Starbucks",
+      "city": "Siegen",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "67e52830ff93ab813b57e04e": {
+      "brand_name": "Domino's Pizza",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "67da8c63cbbbba428c8006ac": {
+      "brand_name": "Dunkin' Donuts",
+      "city": "Vienna",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "63f38f2bde05d83f7096679a": {
+      "brand_name": "Subway",
+      "city": "V\u00e4\u00e4ksy",
+      "country_code": "FIN",
+      "volume_segment": "low_volume_ent"
+    },
+    "69cb80075a90a462962203bc": {
+      "brand_name": "Papa John's",
+      "city": "Wroc\u0142aw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "6997159bc446e11322a1880a": {
+      "brand_name": "Subway",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "65c4b0116bd8cacc643bad00": {
+      "brand_name": "Burger King",
+      "city": "Karvina",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "687a5febdcb32318a48fc27b": {
+      "brand_name": "Max Burger",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "69667612fd82aa809acb6e43": {
+      "brand_name": "Subway",
+      "city": "Aachen",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "69662298c41fe0a0c4bfd96e": {
+      "brand_name": "Subway",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "699edd27454b9353d1f5e1b9": {
+      "brand_name": "Subway",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "68f9f9e131c79a0dcb9ddef9": {
+      "brand_name": "Subway",
+      "city": "Linz",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "67e52b6aff93ab813b57e056": {
+      "brand_name": "Domino's Pizza",
+      "city": "Gliwice",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "69cd0219b6589ede823c09a9": {
+      "brand_name": "Burger King",
+      "city": "Wroc\u0142aw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "65117832568f60ac53db4aee": {
+      "brand_name": "Burger King",
+      "city": "\u010cesk\u00e9 Bud\u011bjovice",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "93907fa0ce50a49d3f232533": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "67138bd770afdaa63be86f54": {
+      "brand_name": "Burger King",
+      "city": "Limassol",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "5fec2c5bbfbbe58b1f91a7dc": {
+      "brand_name": "Subway",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "bcd25087cecac36120af495c": {
+      "brand_name": "Domino's Pizza",
+      "city": "Turku",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "2beb921fc787c3d82b880284": {
+      "brand_name": "KFC",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "4f9b5aff35103db304372430": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "207289bbe4a710f12d1f71fd": {
+      "brand_name": "Burger King",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "690727ced229d90cdbad6425": {
+      "brand_name": "Subway",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "067de2e23e69f1653f50141d": {
+      "brand_name": "Domino's Pizza",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "a5e42cecab39b80137ee2397": {
+      "brand_name": "KFC",
+      "city": "Aalborg",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "0206be4e68900e02a7e4698c": {
+      "brand_name": "McDonald's",
+      "city": "Limassol",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "a4c93752fe5a699d5722d32d": {
+      "brand_name": "Burger King",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "a013096fa7d390c6a4d39a2b": {
+      "brand_name": "Subway",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "8607076d0b8a8b4d85de46bc": {
+      "brand_name": "Domino's Pizza",
+      "city": "Rijeka",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "856a8676dcda759c1d1e2d4a": {
+      "brand_name": "KFC",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "16ef99ddc5d29fd80cea03ef": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "86a1498f6f05b71096cf3c9a": {
+      "brand_name": "Burger King",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "f4e11b4638bced361e43f441": {
+      "brand_name": "Subway",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "2ced5f99c479ff3d440ecebb": {
+      "brand_name": "Domino's Pizza",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "9c0bd2d83b3649740a86f965": {
+      "brand_name": "KFC",
+      "city": "Nicosia",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "7e9a40930dbde92f54e84073": {
+      "brand_name": "McDonald's",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "f764aa4857fa64f640c88d25": {
+      "brand_name": "Burger King",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "449999201399ae3d36121d8b": {
+      "brand_name": "Subway",
+      "city": "Tel Aviv",
+      "country_code": "ISR",
+      "volume_segment": "high_volume_ent"
+    },
+    "4907b427cb608c4caf1ab0b2": {
+      "brand_name": "Domino's Pizza",
+      "city": "Malta",
+      "country_code": "MLT",
+      "volume_segment": "high_volume_ent"
+    },
+    "4c954d1d9dccd357ec83b029": {
+      "brand_name": "KFC",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "c7e9a3184b39e323c56b3ebd": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "7bda25332d6a697d6871485d": {
+      "brand_name": "Burger King",
+      "city": "Paphos",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "7b4fa0020c82e37d9462fb1a": {
+      "brand_name": "Subway",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "24995b5582155ff77a37f19f": {
+      "brand_name": "Domino's Pizza",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "bab42250f67bee6b28ce2818": {
+      "brand_name": "KFC",
+      "city": "Limassol",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "3d56a64103bc6a79d210654b": {
+      "brand_name": "McDonald's",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "6b8a970b50b75464da9ac002": {
+      "brand_name": "Burger King",
+      "city": "Bratislava",
+      "country_code": "SVK",
+      "volume_segment": "high_volume_ent"
+    },
+    "93adaeb624d0a7fbe0e1d014": {
+      "brand_name": "Subway",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "058d0620551116e616f66044": {
+      "brand_name": "Domino's Pizza",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "1f1b0fe4d1a66806515a0e8a": {
+      "brand_name": "KFC",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "047d12819e13cd225068dbaf": {
+      "brand_name": "McDonald's",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "0b7f21492cf7c079daa63ea3": {
+      "brand_name": "Burger King",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "3f401df8c8baf6cf8e312c20": {
+      "brand_name": "Subway",
+      "city": "Split",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "c91b285c1074436c29aaa27a": {
+      "brand_name": "Domino's Pizza",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "ed3dac0cb5f1dd7d6f13cba6": {
+      "brand_name": "KFC",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5dcc0f0505224cfdbed69e92": {
+      "brand_name": "McDonald's",
+      "city": "Bratislava",
+      "country_code": "SVK",
+      "volume_segment": "high_volume_ent"
+    },
+    "813e3dbc8859960ae422dd34": {
+      "brand_name": "Burger King",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "e44586256f3907cf25ba1825": {
+      "brand_name": "Subway",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "6bd7de245e71db16a4cb41d9": {
+      "brand_name": "Domino's Pizza",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "724a7ec9b927ade485caba26": {
+      "brand_name": "KFC",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "b8ab4ccda17e91cbd6538b09": {
+      "brand_name": "McDonald's",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "d092abebbe3241f2e12835fd": {
+      "brand_name": "Burger King",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "3cbee38b46cb3b1c09897189": {
+      "brand_name": "Subway",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "d0f3e123f6033e61ceafcef5": {
+      "brand_name": "Domino's Pizza",
+      "city": "Malta",
+      "country_code": "MLT",
+      "volume_segment": "high_volume_ent"
+    },
+    "806a737059877b353230ddb4": {
+      "brand_name": "KFC",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "e449280fec5ff0d6b956f0fe": {
+      "brand_name": "McDonald's",
+      "city": "Oslo",
+      "country_code": "NOR",
+      "volume_segment": "high_volume_ent"
+    },
+    "867e39d18ac746c0eadbabda": {
+      "brand_name": "Burger King",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "7225de6ec953255d741bd7da": {
+      "brand_name": "Subway",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "6ec51b5942d03b1aaf8450da": {
+      "brand_name": "Domino's Pizza",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "daa80fe8d526e02c308103b0": {
+      "brand_name": "KFC",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "a4564760e5aae02d496555ae": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "9d38f55b952fdf01371be4e4": {
+      "brand_name": "Burger King",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "d3edecef8a36cd2a72c823a8": {
+      "brand_name": "Subway",
+      "city": "Tampere",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "6b3f0d3ff15677dbd343d9e3": {
+      "brand_name": "Domino's Pizza",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "e8d89acff14c912726d3dd66": {
+      "brand_name": "KFC",
+      "city": "Debrecen",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "e4a3087a0bbf65e647d1f2e3": {
+      "brand_name": "McDonald's",
+      "city": "Vaasa",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "4d4921ccd6afca7773195f21": {
+      "brand_name": "Burger King",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "e27a3b50a12602a49c0d6f2a": {
+      "brand_name": "Subway",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "4afa495b6a2108a8e7c78698": {
+      "brand_name": "Domino's Pizza",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "f80190a1a2030e49a426c52b": {
+      "brand_name": "KFC",
+      "city": "Szeged",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "f3c0dd16c7d8bc93c57ba0a3": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "ccaa648ea739a5d2dff602ea": {
+      "brand_name": "Burger King",
+      "city": "Espoo",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "cda24ba2711d9b214941f82a": {
+      "brand_name": "Subway",
+      "city": "Larnaca",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "982f4302fcbd8674176918b3": {
+      "brand_name": "Domino's Pizza",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "727fd960c159594751e303ec": {
+      "brand_name": "KFC",
+      "city": "Espoo",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "487fbb56e1f212ba526ff5e6": {
+      "brand_name": "McDonald's",
+      "city": "Bratislava",
+      "country_code": "SVK",
+      "volume_segment": "high_volume_ent"
+    },
+    "42277e9d0c18ec7743fb1112": {
+      "brand_name": "Burger King",
+      "city": "Ljubljana",
+      "country_code": "SVN",
+      "volume_segment": "high_volume_ent"
+    },
+    "8e6b9c7d1c9432908e320c92": {
+      "brand_name": "Subway",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "23a11d26565b893104b4f58d": {
+      "brand_name": "Domino's Pizza",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "9606c39a43bc648730453242": {
+      "brand_name": "KFC",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "5515135bf379732446355020": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "228f5ae21255e8a520bb8e14": {
+      "brand_name": "Burger King",
+      "city": "Rovaniemi",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "75a97b5e5fd34f3b96c3a20c": {
+      "brand_name": "Subway",
+      "city": "Nur-Sultan",
+      "country_code": "KAZ",
+      "volume_segment": "high_volume_ent"
+    },
+    "18b2fa8fcf61b5e94863b263": {
+      "brand_name": "Domino's Pizza",
+      "city": "\u00d6rebro",
+      "country_code": "SWE",
+      "volume_segment": "high_volume_ent"
+    },
+    "6cf0a83ad6781421f276ddce": {
+      "brand_name": "KFC",
+      "city": "Split",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "01ce462592350ee44940b7b9": {
+      "brand_name": "McDonald's",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "86bb12646db9247c62a01803": {
+      "brand_name": "Burger King",
+      "city": "Vantaa",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "ab59206fde72d0c9a3fdf1b4": {
+      "brand_name": "Subway",
+      "city": "Oslo",
+      "country_code": "NOR",
+      "volume_segment": "high_volume_ent"
+    },
+    "ca09c8bbfccf4b7ce9418e1c": {
+      "brand_name": "Domino's Pizza",
+      "city": "Nur-Sultan",
+      "country_code": "KAZ",
+      "volume_segment": "high_volume_ent"
+    },
+    "276d8088e601114316bd2266": {
+      "brand_name": "KFC",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "00cf593ac28bcd0bd97f20f2": {
+      "brand_name": "McDonald's",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "a330e62433b71336abc21a75": {
+      "brand_name": "Burger King",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "9d4d06bc23c60df0066c4e0f": {
+      "brand_name": "Subway",
+      "city": "Batumi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "12358305a57f507df520b1ae": {
+      "brand_name": "Domino's Pizza",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "d4da37f98a3c3de42e0ec818": {
+      "brand_name": "KFC",
+      "city": "Tatab\u00e1nya",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "2d186ab8469880490270f979": {
+      "brand_name": "McDonald's",
+      "city": "Aarhus",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "3b33b80eb5a84b4a1153eb87": {
+      "brand_name": "Burger King",
+      "city": "Timisoara",
+      "country_code": "ROU",
+      "volume_segment": "high_volume_ent"
+    },
+    "76f6fa49a44a07f22189d7dc": {
+      "brand_name": "Subway",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "7ddbf2c3ac3cb55cfe4f0838": {
+      "brand_name": "Domino's Pizza",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "08c4c0a3f81a472232056037": {
+      "brand_name": "KFC",
+      "city": "Tartu",
+      "country_code": "EST",
+      "volume_segment": "high_volume_ent"
+    },
+    "df5ca99d3d692a1855829a18": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "61f548f0b04b2d8dd1bc45b5": {
+      "brand_name": "Burger King",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "d5134033799bfb6329ed0f03": {
+      "brand_name": "Subway",
+      "city": "Prague",
+      "country_code": "CZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "b3f1d3990b5e1d9c2ddcd1d6": {
+      "brand_name": "Domino's Pizza",
+      "city": "Oulu",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "f357aa775efb1e988892519d": {
+      "brand_name": "KFC",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "97067cb3b69b22b367389071": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "9de73493cf7561bfcf084c31": {
+      "brand_name": "Burger King",
+      "city": "Limassol",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "8424367d778eaacd7dc90da4": {
+      "brand_name": "Subway",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "69a44d0326933a06f4f25476": {
+      "brand_name": "Domino's Pizza",
+      "city": "Turku",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "0021b74eb6023ceef3cbfe6f": {
+      "brand_name": "KFC",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "291aa1cae494d864154e0417": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "c1045e9b401614a08a52f772": {
+      "brand_name": "Burger King",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "254d465f67989c0975ad8a2d": {
+      "brand_name": "Subway",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "a0375a0f305c088fd89d48af": {
+      "brand_name": "Domino's Pizza",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "fe323d83e8ebd5f54d14bf5e": {
+      "brand_name": "KFC",
+      "city": "Aalborg",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "7c8a18688cfa9ff4c80832bb": {
+      "brand_name": "McDonald's",
+      "city": "Limassol",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "6e62e4fc41c5c0b239e34a95": {
+      "brand_name": "Burger King",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "157f83006b800138dcde2cd8": {
+      "brand_name": "Subway",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "1f945937d72e78d00a469868": {
+      "brand_name": "Domino's Pizza",
+      "city": "Rijeka",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "134c9e673730d9a798cbe9d0": {
+      "brand_name": "KFC",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "e97ae618e77a57e243d8884a": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "507d7f9b0d03126e4e9a5a3f": {
+      "brand_name": "Burger King",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "03ca943c94c4ba4e1b2264f9": {
+      "brand_name": "Subway",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "46e5dae1012e7877b72dd95a": {
+      "brand_name": "Domino's Pizza",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "8caff7fe69414d12736e8109": {
+      "brand_name": "KFC",
+      "city": "Nicosia",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "5415161ee39881ce2c81c9f1": {
+      "brand_name": "McDonald's",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "246d6e363cd30ef7b189324f": {
+      "brand_name": "Burger King",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "a91842af7cc7443b2cf3f418": {
+      "brand_name": "Subway",
+      "city": "Tel Aviv",
+      "country_code": "ISR",
+      "volume_segment": "high_volume_ent"
+    },
+    "041c9967568ddae16bca4af9": {
+      "brand_name": "Domino's Pizza",
+      "city": "Malta",
+      "country_code": "MLT",
+      "volume_segment": "high_volume_ent"
+    },
+    "9e5b0219b2d1489be0cb4189": {
+      "brand_name": "KFC",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "72b1cfd4b7957cb1726f256e": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "aaf8f12b200ac794b4a09782": {
+      "brand_name": "Burger King",
+      "city": "Paphos",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "97c9f9d0580698a0c0dbbfce": {
+      "brand_name": "Subway",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "94941a389f7a0899ba6944de": {
+      "brand_name": "Domino's Pizza",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "c7a56baadcc8b3475d7bcdb4": {
+      "brand_name": "KFC",
+      "city": "Limassol",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "da953609ae9edef240a43ac6": {
+      "brand_name": "McDonald's",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "c72f975870e7c78b75d1a5a4": {
+      "brand_name": "Burger King",
+      "city": "Bratislava",
+      "country_code": "SVK",
+      "volume_segment": "high_volume_ent"
+    },
+    "db2d79beb15c9fae07261ed9": {
+      "brand_name": "Subway",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "9089c33c74089b79d776d1e4": {
+      "brand_name": "Domino's Pizza",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "67f40175d94d309dd0021aa2": {
+      "brand_name": "KFC",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "76aeab7157ca62bce7fadb85": {
+      "brand_name": "McDonald's",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "c34a3fc686ab4b8dbd48e98c": {
+      "brand_name": "Burger King",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "d724683c01979f9e812e808b": {
+      "brand_name": "Subway",
+      "city": "Split",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "7bfd0cc8a3448b7dece744b7": {
+      "brand_name": "Domino's Pizza",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "c27d237cc14bb1db9a7e940e": {
+      "brand_name": "KFC",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "2487b725c04c934fbb0f619a": {
+      "brand_name": "McDonald's",
+      "city": "Bratislava",
+      "country_code": "SVK",
+      "volume_segment": "high_volume_ent"
+    },
+    "23f73167c311161cf2857d8b": {
+      "brand_name": "Burger King",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "b486f5205bb713aaea27b230": {
+      "brand_name": "Subway",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "410fb8472d9a4d9f7c599f90": {
+      "brand_name": "Domino's Pizza",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "5f2763db2ba102efa7b8a659": {
+      "brand_name": "KFC",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "4845cd49e77b3f8b4228a706": {
+      "brand_name": "McDonald's",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "0dfbd86baabe79f1659d9f3f": {
+      "brand_name": "Burger King",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "8b9dda5ca38495645bc01b24": {
+      "brand_name": "Subway",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "47653a54aeb054ffdf1be63e": {
+      "brand_name": "Domino's Pizza",
+      "city": "Malta",
+      "country_code": "MLT",
+      "volume_segment": "high_volume_ent"
+    },
+    "6808b718eb7ba49c655571e3": {
+      "brand_name": "KFC",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "cce14e4d5162777842e6e6f0": {
+      "brand_name": "McDonald's",
+      "city": "Oslo",
+      "country_code": "NOR",
+      "volume_segment": "high_volume_ent"
+    },
+    "58b941a6c6ec9f9d7f8b27b8": {
+      "brand_name": "Burger King",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "3faef41f49d3bf73acf10d2d": {
+      "brand_name": "Subway",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "13a264441e5cf77213f236e5": {
+      "brand_name": "Domino's Pizza",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "ee0468d71f2f0e6ea1352102": {
+      "brand_name": "KFC",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "e5b34168547c56afef07d3a2": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "3c620f600a3fc9de66f31464": {
+      "brand_name": "Burger King",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "636e9e42b7c0b7291ba80d27": {
+      "brand_name": "Subway",
+      "city": "Tampere",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "32bf25caa8f64321942c2c09": {
+      "brand_name": "Domino's Pizza",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "559a4a6b9c8811f0e3c47cf3": {
+      "brand_name": "KFC",
+      "city": "Debrecen",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "1ee11b79d4fb23381c676797": {
+      "brand_name": "McDonald's",
+      "city": "Vaasa",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5cdd375090fd4d65bf1bda8d": {
+      "brand_name": "Burger King",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "f665ed55d4c94a1cd0e94b19": {
+      "brand_name": "Subway",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "a5e1774696668014da5ee321": {
+      "brand_name": "Domino's Pizza",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "45376cc9d23515a452b994a5": {
+      "brand_name": "KFC",
+      "city": "Szeged",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "459f838945d5b1a4a660e3cf": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "13b14e437ebd4ae6c5025180": {
+      "brand_name": "Burger King",
+      "city": "Espoo",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "2a2a1595133f79a97d430b43": {
+      "brand_name": "Subway",
+      "city": "Larnaca",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "1afa4db017c355cca1e35dc7": {
+      "brand_name": "Domino's Pizza",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "07b63a5c06e5e29b16de1be9": {
+      "brand_name": "KFC",
+      "city": "Espoo",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "a75fbef7186c41c7d0182b26": {
+      "brand_name": "McDonald's",
+      "city": "Bratislava",
+      "country_code": "SVK",
+      "volume_segment": "high_volume_ent"
+    },
+    "262369c74470ca9c2c2ff8f1": {
+      "brand_name": "Burger King",
+      "city": "Ljubljana",
+      "country_code": "SVN",
+      "volume_segment": "high_volume_ent"
+    },
+    "f97f3577ee46200291dbed8d": {
+      "brand_name": "Subway",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "8cebe552e822f4a335fdd7b7": {
+      "brand_name": "Domino's Pizza",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "ee5270f0c1d8fa43e7ca2119": {
+      "brand_name": "KFC",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "09a5980504591e97f11d2c21": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "390b64ac7b43deb13fcc970f": {
+      "brand_name": "Burger King",
+      "city": "Rovaniemi",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "944fdfa166ca93af72cff5b1": {
+      "brand_name": "Subway",
+      "city": "Nur-Sultan",
+      "country_code": "KAZ",
+      "volume_segment": "high_volume_ent"
+    },
+    "9289a8d834fa2f960e167053": {
+      "brand_name": "Domino's Pizza",
+      "city": "\u00d6rebro",
+      "country_code": "SWE",
+      "volume_segment": "high_volume_ent"
+    },
+    "1d54ab8c5fd2b17371821905": {
+      "brand_name": "KFC",
+      "city": "Split",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "cb6751a53fbfcc616be80c60": {
+      "brand_name": "McDonald's",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "3a9dd46791c081beb4cca1e0": {
+      "brand_name": "Burger King",
+      "city": "Vantaa",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "c5ab45bfe8939dee000ee82a": {
+      "brand_name": "Subway",
+      "city": "Oslo",
+      "country_code": "NOR",
+      "volume_segment": "high_volume_ent"
+    },
+    "18be148732ec6f2f94295249": {
+      "brand_name": "Domino's Pizza",
+      "city": "Nur-Sultan",
+      "country_code": "KAZ",
+      "volume_segment": "high_volume_ent"
+    },
+    "a7451a43663670f9d6d970cd": {
+      "brand_name": "KFC",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "240f6803f1de6446196b00f3": {
+      "brand_name": "McDonald's",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "a83dc072b16d8615994fac5f": {
+      "brand_name": "Burger King",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "d5b9a714ae7e09aca9c654ee": {
+      "brand_name": "Subway",
+      "city": "Batumi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "9467ad742dd29cbe4896dcc9": {
+      "brand_name": "Domino's Pizza",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "73eff08f3011f31f0ea73923": {
+      "brand_name": "KFC",
+      "city": "Tatab\u00e1nya",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "1fc0a02b47e2efd5f8b5f301": {
+      "brand_name": "McDonald's",
+      "city": "Aarhus",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "12cde7fbe5f34d9d4d7f2556": {
+      "brand_name": "Burger King",
+      "city": "Timisoara",
+      "country_code": "ROU",
+      "volume_segment": "high_volume_ent"
+    },
+    "4bf7c9af935199d6db446f3f": {
+      "brand_name": "Subway",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "537070c64a60df652c87f45e": {
+      "brand_name": "Domino's Pizza",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "6af4a8271890120cc0bdfcb0": {
+      "brand_name": "KFC",
+      "city": "Tartu",
+      "country_code": "EST",
+      "volume_segment": "high_volume_ent"
+    },
+    "a89895a395090abd6a94b012": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "7eb3ab6211189078eff1468c": {
+      "brand_name": "Burger King",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "764c67a65f2baf65fd88851b": {
+      "brand_name": "Subway",
+      "city": "Prague",
+      "country_code": "CZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "585c2081812f18d83cda17b7": {
+      "brand_name": "Domino's Pizza",
+      "city": "Oulu",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "12e9016435f10ef88d7ff7fe": {
+      "brand_name": "KFC",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "9b854c1234920f485299ad79": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "54a46388c0ff3506f669cb60": {
+      "brand_name": "Burger King",
+      "city": "Limassol",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "5f09e487c15fcf3c65089b69": {
+      "brand_name": "Subway",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5d7aaf162ccd921ea75625c9": {
+      "brand_name": "Domino's Pizza",
+      "city": "Turku",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "a37cb75ecf8c7ef23c77265e": {
+      "brand_name": "KFC",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "d7cf69916e9165934bb89210": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "0bd57e3c6d6e6568cbfac5cb": {
+      "brand_name": "Burger King",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "3f13496f64329990ff484143": {
+      "brand_name": "Subway",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "d82d2820224483efec0844b3": {
+      "brand_name": "Domino's Pizza",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "559ef0f6a82d3fb0db6d978d": {
+      "brand_name": "KFC",
+      "city": "Aalborg",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "16f846d5d3bfc672b3fe27d9": {
+      "brand_name": "McDonald's",
+      "city": "Limassol",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "f162f0dcdad5d100dea9df72": {
+      "brand_name": "Burger King",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "0a959a1bcd1918a11aff140d": {
+      "brand_name": "Subway",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "18ff0a2b2267169d1d34e8ca": {
+      "brand_name": "Domino's Pizza",
+      "city": "Rijeka",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "09dd92e33ef7ca60cfe606ea": {
+      "brand_name": "KFC",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "5e9ff647249d6468905033e9": {
+      "brand_name": "McDonald's",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "ae072756c239c40e76a715ef": {
+      "brand_name": "Burger King",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "e4f09cb5afdc6a2a913e5ea9": {
+      "brand_name": "Subway",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "bca888afa740d48a879f67bc": {
+      "brand_name": "Domino's Pizza",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "3a81c3d8780bbe234fafb1d6": {
+      "brand_name": "KFC",
+      "city": "Nicosia",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "51b622894367b742232a346d": {
+      "brand_name": "McDonald's",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "717fc2772a3e97607d080a10": {
+      "brand_name": "Burger King",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "33dceac38740699a6cac2aa8": {
+      "brand_name": "Subway",
+      "city": "Tel Aviv",
+      "country_code": "ISR",
+      "volume_segment": "high_volume_ent"
+    },
+    "be4c707f88ac9afd7936cce3": {
+      "brand_name": "Domino's Pizza",
+      "city": "Malta",
+      "country_code": "MLT",
+      "volume_segment": "high_volume_ent"
+    },
+    "b64994e28d08fe0f99d5c99d": {
+      "brand_name": "KFC",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "bb51177214a9fa2da2c31411": {
+      "brand_name": "McDonald's",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "85ed51d09f8fccb449ef216a": {
+      "brand_name": "Burger King",
+      "city": "Paphos",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "e90870220c8517699700caeb": {
+      "brand_name": "Subway",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "d7ea2bfef36c231fca76a442": {
+      "brand_name": "Domino's Pizza",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "8d22dd3843c5bcf3755d6c1d": {
+      "brand_name": "KFC",
+      "city": "Limassol",
+      "country_code": "CYP",
+      "volume_segment": "high_volume_ent"
+    },
+    "4b0e545b71cbc21cf11ef1f1": {
+      "brand_name": "McDonald's",
+      "city": "Helsinki",
+      "country_code": "FIN",
+      "volume_segment": "high_volume_ent"
+    },
+    "a83cdb8159704b30c4938c8f": {
+      "brand_name": "Burger King",
+      "city": "Bratislava",
+      "country_code": "SVK",
+      "volume_segment": "high_volume_ent"
+    },
+    "96dc105bb285911128ca42d4": {
+      "brand_name": "Subway",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "148ead1d8d09d2dff75a6dc4": {
+      "brand_name": "Domino's Pizza",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "ef08eced8f804f58a80a086a": {
+      "brand_name": "KFC",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "cb1103cc4a76eacd1581ca83": {
+      "brand_name": "McDonald's",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "9733cdf62aa7829771ffcf59": {
+      "brand_name": "Burger King",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "2050447b8390a2e0aa172fac": {
+      "brand_name": "Subway",
+      "city": "Split",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "a8824bcb24755d329b6a23bc": {
+      "brand_name": "Domino's Pizza",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "c4af5caf46168e207dcfb6d4": {
+      "brand_name": "KFC",
+      "city": "Budapest",
+      "country_code": "HUN",
+      "volume_segment": "high_volume_ent"
+    },
+    "bc0695bf50086750b3dc23ea": {
+      "brand_name": "McDonald's",
+      "city": "Bratislava",
+      "country_code": "SVK",
+      "volume_segment": "high_volume_ent"
+    },
+    "35585b3d070a7fb063574ebf": {
+      "brand_name": "Burger King",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "fec22bdedea900ef09f528ae": {
+      "brand_name": "Subway",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "b888b31d2050ae95202605fd": {
+      "brand_name": "Domino's Pizza",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "3bc2305701067b2eb4e3f5f6": {
+      "brand_name": "KFC",
+      "city": "Copenhagen",
+      "country_code": "DNK",
+      "volume_segment": "high_volume_ent"
+    },
+    "506b6bfc4b2853d219756410": {
+      "brand_name": "McDonald's",
+      "city": "Belgrade",
+      "country_code": "SRB",
+      "volume_segment": "high_volume_ent"
+    },
+    "eb242209d65560e868b0a9ad": {
+      "brand_name": "Burger King",
+      "city": "Zagreb",
+      "country_code": "HRV",
+      "volume_segment": "high_volume_ent"
+    },
+    "07d1215ff9e308591e068cef": {
+      "brand_name": "Subway",
+      "city": "Tbilisi",
+      "country_code": "GEO",
+      "volume_segment": "high_volume_ent"
+    },
+    "2573f026d95b65e4a651c519": {
+      "brand_name": "Domino's Pizza",
+      "city": "Malta",
+      "country_code": "MLT",
+      "volume_segment": "high_volume_ent"
+    },
+    "42fa42f21676491f5eccfe7b": {
+      "brand_name": "KFC",
+      "city": "Baku",
+      "country_code": "AZE",
+      "volume_segment": "high_volume_ent"
+    },
+    "5e3bd9d02e500fda25b2f74a": {
+      "brand_name": "Subway",
+      "city": "Sofia",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "740e838089d6be32e97ed2e6": {
+      "brand_name": "Domino's Pizza",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "e9297e709a7772e1318562e1": {
+      "brand_name": "Burger King",
+      "city": "Wiesbaden",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "795057d371a2a401c350f9e5": {
+      "brand_name": "Starbucks",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "1bfab0c64352e670a08ecb09": {
+      "brand_name": "Pizza Hut",
+      "city": "Berlin",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "1512b463222c6e1fdd5643b5": {
+      "brand_name": "Subway",
+      "city": "Stuttgart",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "c6aa5c4a78f3d1dd896e34af": {
+      "brand_name": "Domino's Pizza",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "2c263e87fe2f29f7f9716ceb": {
+      "brand_name": "Burger King",
+      "city": "Magdeburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "4c9a04266b485293a266e50d": {
+      "brand_name": "Starbucks",
+      "city": "Vienna",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "54d76093614684669f031e4d": {
+      "brand_name": "Pizza Hut",
+      "city": "Brno",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "d157f22d9e76439f839aa77d": {
+      "brand_name": "Subway",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "879c921312d47828003c4db3": {
+      "brand_name": "Domino's Pizza",
+      "city": "Wuppertal",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "d5c22c94f108142fc54a5f9d": {
+      "brand_name": "Burger King",
+      "city": "Stavanger",
+      "country_code": "NOR",
+      "volume_segment": "low_volume_ent"
+    },
+    "61e8ba272893fd65681295ed": {
+      "brand_name": "Starbucks",
+      "city": "Dresden",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "22ddaaf3621eb410f4c0ebde": {
+      "brand_name": "Pizza Hut",
+      "city": "M\u00f6nchengladbach",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "c85601c429de60d82595990b": {
+      "brand_name": "Subway",
+      "city": "Kassel",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "bd06fa1ad669e4b0fcd82bd4": {
+      "brand_name": "Domino's Pizza",
+      "city": "Ulm",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "79dcb4e7f1d768bc41eefcf9": {
+      "brand_name": "Burger King",
+      "city": "Vienna",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "ee73df71c04c93d5334ee970": {
+      "brand_name": "Starbucks",
+      "city": "Graz",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "0b4e28624eaed0660b5280dc": {
+      "brand_name": "Pizza Hut",
+      "city": "Lublin",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "40ead21017fb4a1c4a077061": {
+      "brand_name": "Subway",
+      "city": "Ulm",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "761f22c28a7cd7b7b1436eeb": {
+      "brand_name": "Domino's Pizza",
+      "city": "Szczecin",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "04f4a3b5def6b0e07a04205c": {
+      "brand_name": "Burger King",
+      "city": "Nuremberg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "cf669197523ea46676a0e26c": {
+      "brand_name": "Starbucks",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "85ff0458e1468a9b09bdf15e": {
+      "brand_name": "Pizza Hut",
+      "city": "Opole",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "177d2a326760f2b583e2ceca": {
+      "brand_name": "Subway",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "cbc48e00bbc93d619f41bb0e": {
+      "brand_name": "Domino's Pizza",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "3de15028d26d373a4f14cad3": {
+      "brand_name": "Burger King",
+      "city": "Bonn",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "c9e3db2f4b45fa28b230bd4d": {
+      "brand_name": "Starbucks",
+      "city": "Troisdorf und Siegburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "fe95ef8804b91b46b392cbec": {
+      "brand_name": "Pizza Hut",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "d006a6b6c66ed63f7ce499b2": {
+      "brand_name": "Subway",
+      "city": "Remscheid",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "1c07755df3ac9761977cc82f": {
+      "brand_name": "Domino's Pizza",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "b866ea81698ba7943fef7c95": {
+      "brand_name": "Burger King",
+      "city": "Gelsenkirchen",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "16a4dfc078f0f895fde6d3f2": {
+      "brand_name": "Starbucks",
+      "city": "Augsburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "a430aa90b79cd9e8c0335c91": {
+      "brand_name": "Pizza Hut",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "63cb4672c3818b71b73a291e": {
+      "brand_name": "Subway",
+      "city": "Br\u0103ila",
+      "country_code": "ROU",
+      "volume_segment": "low_volume_ent"
+    },
+    "826e7f679c8dcc46a3679328": {
+      "brand_name": "Domino's Pizza",
+      "city": "Bucharest",
+      "country_code": "ROU",
+      "volume_segment": "low_volume_ent"
+    },
+    "b0b498339fdd6d0913ee07e1": {
+      "brand_name": "Burger King",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "835950af3d3754ffea8ddca5": {
+      "brand_name": "Starbucks",
+      "city": "Linz",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "e9104f97d5c91cbd440746d0": {
+      "brand_name": "Pizza Hut",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "0bc986fdeb5236834805269e": {
+      "brand_name": "Subway",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "a67742dba6fffc9ada22192b": {
+      "brand_name": "Domino's Pizza",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "d6f2da67aa872da2d6f91920": {
+      "brand_name": "Burger King",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "94efb61fe53ffbf90f69a718": {
+      "brand_name": "Starbucks",
+      "city": "Kassel",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "d69499d57e5bccf199ea20d7": {
+      "brand_name": "Pizza Hut",
+      "city": "Opole",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "6d82d8f7b0c24a07831cfb7b": {
+      "brand_name": "Subway",
+      "city": "Gorz\u00f3w Wielkopolski",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "512f4f131e6596bd9d8fbdb4": {
+      "brand_name": "Domino's Pizza",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "4bd5274106c9e7b17b8beaa2": {
+      "brand_name": "Burger King",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "eecd6aa25dafdae8c6e181f2": {
+      "brand_name": "Starbucks",
+      "city": "Helsingborg",
+      "country_code": "SWE",
+      "volume_segment": "low_volume_ent"
+    },
+    "77e4a83a967ecca1925a2bf9": {
+      "brand_name": "Pizza Hut",
+      "city": "Ulm",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "26cfcc5fb96533d876db8634": {
+      "brand_name": "Subway",
+      "city": "Prague",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "75883b609575dce8595edc53": {
+      "brand_name": "Domino's Pizza",
+      "city": "Krak\u00f3w",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "f938f658d6717beb5a4f87f0": {
+      "brand_name": "Burger King",
+      "city": "Olsztyn",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "2b1a6f1d71b55db484cca888": {
+      "brand_name": "Starbucks",
+      "city": "Wroc\u0142aw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "879c1a86a8973424e1954207": {
+      "brand_name": "Pizza Hut",
+      "city": "Stara Zagora",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "9b4051b12c3b8717e471b12d": {
+      "brand_name": "Subway",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "36f934b21771c6a5d020a8e7": {
+      "brand_name": "Domino's Pizza",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "afe5ef4c727b8935d211bf91": {
+      "brand_name": "Burger King",
+      "city": "Aglomeracja \u015al\u0105ska",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "1217f23b6935a0d8b4c08fc1": {
+      "brand_name": "Starbucks",
+      "city": "Ostrava",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "30676f05a20962113d2faeff": {
+      "brand_name": "Pizza Hut",
+      "city": "Sosnowiec",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "442b453f663ff17a1a040539": {
+      "brand_name": "Subway",
+      "city": "Malta",
+      "country_code": "MLT",
+      "volume_segment": "low_volume_ent"
+    },
+    "6a0de79ef06381747a440945": {
+      "brand_name": "Domino's Pizza",
+      "city": "Aglomeracja \u015al\u0105ska",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "716e8a80362516b57bfd8793": {
+      "brand_name": "Burger King",
+      "city": "Berlin",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "48872fe06ae3c63ebeddeb25": {
+      "brand_name": "Starbucks",
+      "city": "Munich",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "277570d131d4790491f1ceee": {
+      "brand_name": "Pizza Hut",
+      "city": "Innsbruck",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "7601092c36041d3ebf37ef43": {
+      "brand_name": "Subway",
+      "city": "Sosnowiec",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "4011e612bcc1b5bd86d2c9ba": {
+      "brand_name": "Domino's Pizza",
+      "city": "Troisdorf und Siegburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "e0a388d31a9ca5e4e0446597": {
+      "brand_name": "Burger King",
+      "city": "Gorz\u00f3w Wielkopolski",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "6a6ca8a5a557846ec6289008": {
+      "brand_name": "Starbucks",
+      "city": "Zielona G\u00f3ra",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "b598f729be918d9a2455d225": {
+      "brand_name": "Pizza Hut",
+      "city": "Darmstadt",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "ef6ba9fd240a9a005196d42b": {
+      "brand_name": "Subway",
+      "city": "Berlin",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "12da11d7148f9c770db4e560": {
+      "brand_name": "Domino's Pizza",
+      "city": "Wuppertal",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "8c5e806c444682d734ac3dfc": {
+      "brand_name": "Burger King",
+      "city": "Sofia",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "2c59d24493367295cc9d5475": {
+      "brand_name": "Starbucks",
+      "city": "Bia\u0142ystok",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "c1b107d48800600e0a869fec": {
+      "brand_name": "Pizza Hut",
+      "city": "Kladno",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "83b1b1f1db09ab9658a27d54": {
+      "brand_name": "Subway",
+      "city": "Teplice",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "fa64985d3ec00eae6e8feaad": {
+      "brand_name": "Domino's Pizza",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "f5d1ee16229abd904615e8b9": {
+      "brand_name": "Burger King",
+      "city": "Magdeburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "b0386972bf5d6a9eff8bb8e0": {
+      "brand_name": "Starbucks",
+      "city": "Aglomeracja \u015al\u0105ska",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "4e2601346923f9ddbc12347a": {
+      "brand_name": "Pizza Hut",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "ea4ae9610a7912ab5b10760f": {
+      "brand_name": "Subway",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "c9d6f5c5d6660209b24bd3f7": {
+      "brand_name": "Domino's Pizza",
+      "city": "Szczecin-Prawobrze\u017ce",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "ad505bbebb1f9ae84098397c": {
+      "brand_name": "Burger King",
+      "city": "Pilsen",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "4a00cc3a519b5c2b9fd3a58a": {
+      "brand_name": "Starbucks",
+      "city": "Teplice",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "5ee950b2890afed403ac18d6": {
+      "brand_name": "Pizza Hut",
+      "city": "Opole",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "9aa7c7d174349cc70e3a1c16": {
+      "brand_name": "Subway",
+      "city": "Siegen",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "fd3235fd0c4ef5a581e52061": {
+      "brand_name": "Domino's Pizza",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "3923a81b1ce5ee08946a233f": {
+      "brand_name": "Burger King",
+      "city": "Vienna",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "b9d0fb9c302d2bd0f8d540ba": {
+      "brand_name": "Starbucks",
+      "city": "V\u00e4\u00e4ksy",
+      "country_code": "FIN",
+      "volume_segment": "low_volume_ent"
+    },
+    "2204c2689c858274e8ff8d6f": {
+      "brand_name": "Pizza Hut",
+      "city": "Wroc\u0142aw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "97bf1b662df0b21de7f3c6cf": {
+      "brand_name": "Subway",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "da8a834e7957250ae731866c": {
+      "brand_name": "Domino's Pizza",
+      "city": "Karvina",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "9cffcf33467054e1f1ce0dda": {
+      "brand_name": "Burger King",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "8dabb1ddd6706ac1c26c38a1": {
+      "brand_name": "Starbucks",
+      "city": "Aachen",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "2b838305b707459aa725f2d0": {
+      "brand_name": "Pizza Hut",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "54505e83f9b1b18e8ef961f9": {
+      "brand_name": "Subway",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "2fbbfeeb9dc37366ba8a1340": {
+      "brand_name": "Domino's Pizza",
+      "city": "Linz",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "e92e262617a5f6e05bbdbab1": {
+      "brand_name": "Burger King",
+      "city": "Gliwice",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "a2af2d3aa532b33af4882a76": {
+      "brand_name": "Starbucks",
+      "city": "Wroc\u0142aw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "2327a34e44196d6af255e708": {
+      "brand_name": "Pizza Hut",
+      "city": "\u010cesk\u00e9 Bud\u011bjovice",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "947c74d6b460c15a39ea886d": {
+      "brand_name": "Subway",
+      "city": "Sofia",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "7821b7df990d6d77cb7c6563": {
+      "brand_name": "Domino's Pizza",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "f1de6e04297a70b491f8e792": {
+      "brand_name": "Burger King",
+      "city": "Wiesbaden",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "ff66b4098a9d48e6edb0c1dc": {
+      "brand_name": "Starbucks",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "cf382abbb1f21577ae45ed7e": {
+      "brand_name": "Pizza Hut",
+      "city": "Berlin",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "b866e7f27e002047235a3b5f": {
+      "brand_name": "Subway",
+      "city": "Stuttgart",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "cee7c8ddf159ef02f64086a3": {
+      "brand_name": "Domino's Pizza",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "bd7c5e89e281d653ca085b0c": {
+      "brand_name": "Burger King",
+      "city": "Magdeburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "76ec471bb0b838bb55b81783": {
+      "brand_name": "Starbucks",
+      "city": "Vienna",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "7c5b1b5ceae7c2030fd64f41": {
+      "brand_name": "Pizza Hut",
+      "city": "Brno",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "001dc32c6e4ff5027ba0e08e": {
+      "brand_name": "Subway",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "3a28a6b5347d5a2d3e4e0ae1": {
+      "brand_name": "Domino's Pizza",
+      "city": "Wuppertal",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "7d77c6cc14470a13e0b076f4": {
+      "brand_name": "Burger King",
+      "city": "Stavanger",
+      "country_code": "NOR",
+      "volume_segment": "low_volume_ent"
+    },
+    "17a1dd158593ce8ff3477d14": {
+      "brand_name": "Starbucks",
+      "city": "Dresden",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "715e33aef03ef25105a83c2f": {
+      "brand_name": "Pizza Hut",
+      "city": "M\u00f6nchengladbach",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "3b8efcee9f0f833ddc7b7007": {
+      "brand_name": "Subway",
+      "city": "Kassel",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "750423c6931ac4b7132562d9": {
+      "brand_name": "Domino's Pizza",
+      "city": "Ulm",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "67cd5440df966068ded109f8": {
+      "brand_name": "Burger King",
+      "city": "Vienna",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "e81c6d9e1b231e0f2eb6a60c": {
+      "brand_name": "Starbucks",
+      "city": "Graz",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "a106bebffe406271a0d0b31c": {
+      "brand_name": "Pizza Hut",
+      "city": "Lublin",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "7fe1505a9d11477411bbc9af": {
+      "brand_name": "Subway",
+      "city": "Ulm",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "3e1e2ddc8cb2a4bcbb3bd28c": {
+      "brand_name": "Domino's Pizza",
+      "city": "Szczecin",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "d9ee6cb49ebe40530d4157d6": {
+      "brand_name": "Burger King",
+      "city": "Nuremberg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "73e3bc64f6235a6b13e0f787": {
+      "brand_name": "Starbucks",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "a127e8c7262ae51890f3a43c": {
+      "brand_name": "Pizza Hut",
+      "city": "Opole",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "d59c40847c4f086f8d3decde": {
+      "brand_name": "Subway",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "581b72aab819d36a8b2b5cbb": {
+      "brand_name": "Domino's Pizza",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "217859c247b76aaaaa454ee2": {
+      "brand_name": "Burger King",
+      "city": "Bonn",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "2e614d4eb8c4fb3190962ec4": {
+      "brand_name": "Starbucks",
+      "city": "Troisdorf und Siegburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "b322748aa4b6bca7a33e1233": {
+      "brand_name": "Pizza Hut",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "9320f605f3340bed8a50a02c": {
+      "brand_name": "Subway",
+      "city": "Remscheid",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "85c275d65dfac2aa571b341d": {
+      "brand_name": "Domino's Pizza",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "9b5089de292a8173d2bd22ab": {
+      "brand_name": "Burger King",
+      "city": "Gelsenkirchen",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "e34266cafecca16fe9d2e2ca": {
+      "brand_name": "Starbucks",
+      "city": "Augsburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "267ef8f1d7744ff44bdf252a": {
+      "brand_name": "Pizza Hut",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "7fc2b38867767953ba307315": {
+      "brand_name": "Subway",
+      "city": "Br\u0103ila",
+      "country_code": "ROU",
+      "volume_segment": "low_volume_ent"
+    },
+    "d74fc4913d2ce5c904eb7afe": {
+      "brand_name": "Domino's Pizza",
+      "city": "Bucharest",
+      "country_code": "ROU",
+      "volume_segment": "low_volume_ent"
+    },
+    "517cb5122081bb37899dc9b1": {
+      "brand_name": "Burger King",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "4a6262dffdba2c6c0e9838f3": {
+      "brand_name": "Starbucks",
+      "city": "Linz",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "6062789afbf29e9ec5bb4588": {
+      "brand_name": "Pizza Hut",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "ab1f10d95ccf1e4d514181bf": {
+      "brand_name": "Subway",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "1fe59ff9ff950235b685802d": {
+      "brand_name": "Domino's Pizza",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "a1c255d1d7dbc18c37dadf84": {
+      "brand_name": "Burger King",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "1bdb208a927e4f81bdbfd853": {
+      "brand_name": "Starbucks",
+      "city": "Kassel",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "34aca9e3097cba744f165a39": {
+      "brand_name": "Pizza Hut",
+      "city": "Opole",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "9f5f32f393760277f4eab8c8": {
+      "brand_name": "Subway",
+      "city": "Gorz\u00f3w Wielkopolski",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "dbf10c97e2b20ea453d07c05": {
+      "brand_name": "Domino's Pizza",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "0e25391e8cd275575c587a1b": {
+      "brand_name": "Burger King",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "0c5cc111926156f8e87a77df": {
+      "brand_name": "Starbucks",
+      "city": "Helsingborg",
+      "country_code": "SWE",
+      "volume_segment": "low_volume_ent"
+    },
+    "6238c980b9789795612300ee": {
+      "brand_name": "Pizza Hut",
+      "city": "Ulm",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "b030c437cba54fdaaf5faaac": {
+      "brand_name": "Subway",
+      "city": "Prague",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "f34074ce8b8f7680ce372cd9": {
+      "brand_name": "Domino's Pizza",
+      "city": "Krak\u00f3w",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "ec59f26341394aa59954404b": {
+      "brand_name": "Burger King",
+      "city": "Olsztyn",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "d249f395095011e6656339b3": {
+      "brand_name": "Starbucks",
+      "city": "Wroc\u0142aw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "266758e62b0f7ef344481c6b": {
+      "brand_name": "Pizza Hut",
+      "city": "Stara Zagora",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "41bc1fe9c841014eeee05869": {
+      "brand_name": "Subway",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "06a382a55074f22166af6bbf": {
+      "brand_name": "Domino's Pizza",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "df6cd5b6f4ec7b9c1fba6f92": {
+      "brand_name": "Burger King",
+      "city": "Aglomeracja \u015al\u0105ska",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "1179fc9f1b0a0b12b87b3ace": {
+      "brand_name": "Starbucks",
+      "city": "Ostrava",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "c158e512c7488b7dbe8c46e7": {
+      "brand_name": "Pizza Hut",
+      "city": "Sosnowiec",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "06d8718257e2ac7f83eb5c1a": {
+      "brand_name": "Subway",
+      "city": "Malta",
+      "country_code": "MLT",
+      "volume_segment": "low_volume_ent"
+    },
+    "187359877d1e2f71b946f213": {
+      "brand_name": "Domino's Pizza",
+      "city": "Aglomeracja \u015al\u0105ska",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "f3db58719fb3bf129b82c969": {
+      "brand_name": "Burger King",
+      "city": "Berlin",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "88751bc2dfb4fd6d52f617d8": {
+      "brand_name": "Starbucks",
+      "city": "Munich",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "8f975226d1489f79febe1f8f": {
+      "brand_name": "Pizza Hut",
+      "city": "Innsbruck",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "508f8a0f63faaa83ff9d2647": {
+      "brand_name": "Subway",
+      "city": "Sosnowiec",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "749abd036196d5df088474bb": {
+      "brand_name": "Domino's Pizza",
+      "city": "Troisdorf und Siegburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "55671f438f6bb2fcadf67ec4": {
+      "brand_name": "Burger King",
+      "city": "Gorz\u00f3w Wielkopolski",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "1e24251ba30bf9ddaf197231": {
+      "brand_name": "Starbucks",
+      "city": "Zielona G\u00f3ra",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "984dddccd4c3372010f3b99e": {
+      "brand_name": "Pizza Hut",
+      "city": "Darmstadt",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "3cda1cc90cb1e5d00b43cf43": {
+      "brand_name": "Subway",
+      "city": "Berlin",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "369f80fbcbb1f51abde40d75": {
+      "brand_name": "Domino's Pizza",
+      "city": "Wuppertal",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "5cf77fec3b0458c0237b67ed": {
+      "brand_name": "Burger King",
+      "city": "Sofia",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "16c1c61ebca7dc8898fb92f0": {
+      "brand_name": "Starbucks",
+      "city": "Bia\u0142ystok",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "11ad74db3c3ab63cd9be63a5": {
+      "brand_name": "Pizza Hut",
+      "city": "Kladno",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "3026525e7ebbd59177f8fc8a": {
+      "brand_name": "Subway",
+      "city": "Teplice",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "13bcd87481604af066d3b65a": {
+      "brand_name": "Domino's Pizza",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "9fc5d1b7c44ca36c4b892a20": {
+      "brand_name": "Burger King",
+      "city": "Magdeburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "267fd26ea9c2590b937a3123": {
+      "brand_name": "Starbucks",
+      "city": "Aglomeracja \u015al\u0105ska",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "1c9c2e9cf71084929a074351": {
+      "brand_name": "Pizza Hut",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "1ae1bcce994b2201f6890f86": {
+      "brand_name": "Subway",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "835cc64f69351327c349fc6e": {
+      "brand_name": "Domino's Pizza",
+      "city": "Szczecin-Prawobrze\u017ce",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "366f82d78feae26b39ea706d": {
+      "brand_name": "Burger King",
+      "city": "Pilsen",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "baf9accff45a8cfc8f26ac83": {
+      "brand_name": "Starbucks",
+      "city": "Teplice",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "69a932ba2b6cc4e16913905c": {
+      "brand_name": "Pizza Hut",
+      "city": "Opole",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "3dfdb4368afabab54105e3c5": {
+      "brand_name": "Subway",
+      "city": "Siegen",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "b84cea29400ba323e15055b5": {
+      "brand_name": "Domino's Pizza",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "52d75166076384a124a059f1": {
+      "brand_name": "Burger King",
+      "city": "Vienna",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "0561a9a7d0d03035f3ea0913": {
+      "brand_name": "Starbucks",
+      "city": "V\u00e4\u00e4ksy",
+      "country_code": "FIN",
+      "volume_segment": "low_volume_ent"
+    },
+    "e9c3483fb744db503309ef46": {
+      "brand_name": "Pizza Hut",
+      "city": "Wroc\u0142aw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "d175054d0452a421786f397d": {
+      "brand_name": "Subway",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "696f48883f7ecfc4bc541954": {
+      "brand_name": "Domino's Pizza",
+      "city": "Karvina",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "3cee83ecb16b1895715e5657": {
+      "brand_name": "Burger King",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "9ff029ad7c66803d223ddd54": {
+      "brand_name": "Starbucks",
+      "city": "Aachen",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "0e20a8741133f7415c0e591e": {
+      "brand_name": "Pizza Hut",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "4f3fc5150f937ed0b79b97d3": {
+      "brand_name": "Subway",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "0a3bb2c73d1885d62531dc9a": {
+      "brand_name": "Domino's Pizza",
+      "city": "Linz",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "a3d9a629bacb38f7ad59ae13": {
+      "brand_name": "Burger King",
+      "city": "Gliwice",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "548425b242bbf03f3af643de": {
+      "brand_name": "Starbucks",
+      "city": "Wroc\u0142aw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "4178dcadc81fc0663fb22597": {
+      "brand_name": "Pizza Hut",
+      "city": "\u010cesk\u00e9 Bud\u011bjovice",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "93b9389d59f1b8a6bb27a421": {
+      "brand_name": "Subway",
+      "city": "Sofia",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "4aca1b80d2a8de121d64da05": {
+      "brand_name": "Domino's Pizza",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "abc7d7e1f734eb911c1c254b": {
+      "brand_name": "Burger King",
+      "city": "Wiesbaden",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "e8f3c0f5b5e923b65a4c5f7b": {
+      "brand_name": "Starbucks",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "64fcb7d1f8d499fc28cb400a": {
+      "brand_name": "Pizza Hut",
+      "city": "Berlin",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "79d07f297cb0a3522265cdba": {
+      "brand_name": "Subway",
+      "city": "Stuttgart",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "69777b4cfc738031ed614af4": {
+      "brand_name": "Domino's Pizza",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "dd57a4f8a2e42208db3743a5": {
+      "brand_name": "Burger King",
+      "city": "Magdeburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "bda94b58bbe597738ccda722": {
+      "brand_name": "Starbucks",
+      "city": "Vienna",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "f05561ad5ac5c39f604b3191": {
+      "brand_name": "Pizza Hut",
+      "city": "Brno",
+      "country_code": "CZE",
+      "volume_segment": "low_volume_ent"
+    },
+    "035837e0e9724695efd7adae": {
+      "brand_name": "Subway",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "463801b795924dd2ef161570": {
+      "brand_name": "Domino's Pizza",
+      "city": "Wuppertal",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "221f17b68592fc5423960cf3": {
+      "brand_name": "Burger King",
+      "city": "Stavanger",
+      "country_code": "NOR",
+      "volume_segment": "low_volume_ent"
+    },
+    "ce21d0d6213d07b38b56a38e": {
+      "brand_name": "Starbucks",
+      "city": "Dresden",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "6d4c03b6998852c1663eb009": {
+      "brand_name": "Pizza Hut",
+      "city": "M\u00f6nchengladbach",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "0c69723b797cf3e73e853993": {
+      "brand_name": "Subway",
+      "city": "Kassel",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "647cefeef47d260712fd648b": {
+      "brand_name": "Domino's Pizza",
+      "city": "Ulm",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "4cdb7be6750f3ad23a2e8662": {
+      "brand_name": "Burger King",
+      "city": "Vienna",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "411998a3f273b3f0f09d32ff": {
+      "brand_name": "Starbucks",
+      "city": "Graz",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "f6ac368673a24625f49cad8d": {
+      "brand_name": "Pizza Hut",
+      "city": "Lublin",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "d1bf43ab1bd2525e2036aae6": {
+      "brand_name": "Subway",
+      "city": "Ulm",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "1d9f583decfa66c6f8760ea8": {
+      "brand_name": "Domino's Pizza",
+      "city": "Szczecin",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "3562f2da74603b408b9130ec": {
+      "brand_name": "Burger King",
+      "city": "Nuremberg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "ca4d2445848015113369a74e": {
+      "brand_name": "Starbucks",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "e163a7882e6cc3978bece81e": {
+      "brand_name": "Pizza Hut",
+      "city": "Opole",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "65e2d8d5ac1717536f8e37f3": {
+      "brand_name": "Subway",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "8beb2732e9343dd8cdb26dda": {
+      "brand_name": "Domino's Pizza",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "83cdeb24437d671524256351": {
+      "brand_name": "Burger King",
+      "city": "Bonn",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "e1b244f43f86f23bbe0c1796": {
+      "brand_name": "Starbucks",
+      "city": "Troisdorf und Siegburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "9ed904a814af21df02cb2034": {
+      "brand_name": "Pizza Hut",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "90db6678f34b6c1086d7924e": {
+      "brand_name": "Subway",
+      "city": "Remscheid",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "2a2b48572e1c849e75cc1821": {
+      "brand_name": "Domino's Pizza",
+      "city": "Hamburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "0eafe1d74c9e14663a1ad3af": {
+      "brand_name": "Burger King",
+      "city": "Gelsenkirchen",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "02f2945f2f62d2f3295ac6d6": {
+      "brand_name": "Starbucks",
+      "city": "Augsburg",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "12bef8a9049f835d9f766141": {
+      "brand_name": "Pizza Hut",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "e96d6e0195b57240ce742eb1": {
+      "brand_name": "Subway",
+      "city": "Br\u0103ila",
+      "country_code": "ROU",
+      "volume_segment": "low_volume_ent"
+    },
+    "1d91e993e043d40758a7e150": {
+      "brand_name": "Domino's Pizza",
+      "city": "Bucharest",
+      "country_code": "ROU",
+      "volume_segment": "low_volume_ent"
+    },
+    "d52d5fd2316d3d44ea5e53b0": {
+      "brand_name": "Burger King",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "7bc565e6cf973c6c4a1a9d9f": {
+      "brand_name": "Starbucks",
+      "city": "Linz",
+      "country_code": "AUT",
+      "volume_segment": "low_volume_ent"
+    },
+    "cf523e11c1264285c72e3549": {
+      "brand_name": "Pizza Hut",
+      "city": "Cologne",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "988f953b6d5529f52ef6ea72": {
+      "brand_name": "Subway",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "eb699512382ffd84335fdc30": {
+      "brand_name": "Domino's Pizza",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "73b472509d11b8431b072828": {
+      "brand_name": "Burger King",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "ab83d484f895abd9247758e4": {
+      "brand_name": "Starbucks",
+      "city": "Kassel",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    },
+    "9bafa8f6ba228dbd68905f9d": {
+      "brand_name": "Pizza Hut",
+      "city": "Opole",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "5b37503a7f048a10e92487f9": {
+      "brand_name": "Subway",
+      "city": "Gorz\u00f3w Wielkopolski",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "f8c446cb5c30416a993430a1": {
+      "brand_name": "Domino's Pizza",
+      "city": "Burgas",
+      "country_code": "BGR",
+      "volume_segment": "low_volume_ent"
+    },
+    "d3b746c1f021daac301aa2d0": {
+      "brand_name": "Burger King",
+      "city": "Warsaw",
+      "country_code": "POL",
+      "volume_segment": "low_volume_ent"
+    },
+    "c3b35d0d1c92cd922c7eba06": {
+      "brand_name": "Starbucks",
+      "city": "Helsingborg",
+      "country_code": "SWE",
+      "volume_segment": "low_volume_ent"
+    },
+    "918918b6f4b4bc2a2575d526": {
+      "brand_name": "Pizza Hut",
+      "city": "Ulm",
+      "country_code": "DEU",
+      "volume_segment": "low_volume_ent"
+    }
+  }
+}

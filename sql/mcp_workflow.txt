@@ -1,0 +1,18 @@
+Using AskWoltAI schema in production (no MCP required on the API host)
+======================================================================
+
+Canonical table and join documentation lives in the AskWoltAI repo file:
+  ask-wolt-mcp/schema.py  →  variable SCHEMA_DESCRIPTION
+
+The churn API loads that file when ASKWOLT_MCP_HOME points to the clone (same content
+MCP tool get_schema is built from). You do NOT need Cursor MCP online in production.
+
+Workflow
+--------
+1. Keep ask-wolt-mcp cloned on servers or in the build image.
+2. Set ASKWOLT_MCP_HOME=/path/to/ask-wolt-mcp on the churn API.
+3. Optional: CANONICAL_JOINS_JSON for deployment-specific structured overrides.
+4. Optional: ENTERPRISE_DEFINITION_JSON for ENT merchant prose.
+
+Cursor MCP (AskWoltAI + Snowflake) is for interactive discovery and SQL validation
+while you build dbt models or feature pipelines — not a runtime dependency for this API.

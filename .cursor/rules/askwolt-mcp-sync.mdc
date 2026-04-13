@@ -1,0 +1,22 @@
+---
+description: Keep AskWoltAI MCP clone in sync during development and use live MCP as fallback
+globs: backend/**/*.py,sql/**/*.sql,README.md
+alwaysApply: false
+---
+
+# AskWoltAI MCP and schema alignment
+
+## Before changing Snowflake joins, cohort SQL, or `canonical_joins`
+
+1. **Check for updates** to the local clone at `ASKWOLT_MCP_HOME` (default `~/ask-wolt-mcp`):
+   - Run: `bash scripts/sync-askwolt-mcp.sh`, or  
+   - `GET /api/dev/askwolt-mcp` when the churn API runs with **`DEBUG=true`** (shows commits behind `origin/main`).
+2. **Pull** when behind: same script, or `POST /api/dev/askwolt-mcp/sync` (debug mode only).
+
+## When `schema.py` does not load (missing clone, bad path, import error)
+
+The API still returns **`dev_fallback`** on `GET /api/definitions/enterprise` → `canonical_joins.schema_reference` instructing use of **Cursor AskWoltAI MCP** tools: **`get_schema`**, **`ask_wolt`**, **`run_wolt_sql`**. That is the **live** fallback during dev — this service does not call MCP over HTTP.
+
+## Production
+
+No MCP process is required; set **`ASKWOLT_MCP_HOME`** on the host to a deployed clone. Do not rely on Cursor for runtime.
