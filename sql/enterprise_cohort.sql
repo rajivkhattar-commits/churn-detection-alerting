@@ -3,6 +3,12 @@
 --
 -- Replace raw.* / churn_mart.* names using AskWoltAI MCP: get_schema, then ask_wolt
 -- for ENT venue definition. See sql/mcp_workflow.txt. Export prose to ENTERPRISE_DEFINITION_JSON.
+--
+-- Churn KPIs and labelled venue churn flows in production are documented on
+-- PRODUCTION.MERCHANT.VENUE_COUNTRY_REPORTING_MONTHLY / _WEEKLY / _DAILY (same churn columns, pick grain
+-- to match the question; daily adds CHURN_DATE and delete/unpublish reason text for venue-level lists).
+-- Patterns live in ask-wolt-mcp/schema.py (CHURN / VENUE LIFECYCLE); do not assume this churn_mart.* sketch
+-- matches warehouse table names — it is a placeholder for your dbt layout.
 
 CREATE OR REPLACE VIEW churn_mart.enterprise_venues AS
 SELECT

@@ -16,3 +16,11 @@ Workflow
 
 Cursor MCP (AskWoltAI + Snowflake) is for interactive discovery and SQL validation
 while you build dbt models or feature pipelines — not a runtime dependency for this API.
+
+Churn analytics (schema.py)
+---------------------------
+The AskWoltAI repo documents pre-aggregated churn on PRODUCTION.MERCHANT.VENUE_COUNTRY_REPORTING_MONTHLY,
+_WEEKLY, and _DAILY (aligned columns; choose grain by question). Monthly is for portfolio churn rate and
+Looker-style KPIs; daily adds venue-level rows with CHURN_DATE and delete/unpublish reason fields. The API’s
+schema excerpt (see WOLT_SCHEMA_EXCERPT_CHARS) may not include those sections — search SCHEMA_DESCRIPTION in
+schema.py for "CHURN / VENUE LIFECYCLE" when building cohort or label queries.

@@ -20,6 +20,10 @@ Definitions and join paths
 Populate env vars using Cursor **AskWoltAI** MCP (`get_schema`, `ask_wolt`) and optionally
 **Snowflake** MCP to validate SELECTs. Workflow: sql/mcp_workflow.txt
 
+For **churn metrics and venue lifecycle**, follow **ask-wolt-mcp/schema.py** (MERCHANT
+VENUE_COUNTRY_REPORTING_* tables at monthly / weekly / daily grain). This repo’s sql/*.sql
+templates use churn_mart.* placeholders — replace with real objects from your warehouse layout.
+
   ENTERPRISE_DEFINITION_JSON
   CANONICAL_JOINS_JSON
 

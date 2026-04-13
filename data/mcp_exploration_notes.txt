@@ -26,4 +26,9 @@ Session (2026-04-13)
    `SELECT` from `D_VENUES` restricted to those `venue_id` values; paste the `brand_name` column back into the CSV
    (or script a merge). Use **get_schema** for exact column names and join patterns.
 
+6. **Reporting churn tables (MCP schema sync)** — `schema.py` documents CHURN / VENUE LIFECYCLE on
+   `VENUE_COUNTRY_REPORTING_MONTHLY` / `_WEEKLY` / `_DAILY`, and venue-level churn with reasons on **daily**
+   (`CHURN_DATE`, `STATUS_DELETED_REASON`, `STATUS_UNPUBLISHED_REASON`). Use monthly for market/portfolio KPIs;
+   daily for per-venue churn lists. See **data/enterprise_churn_definition.json** `snowflake_hints.reporting_churn_analytics`.
+
 Workflow: sql/mcp_workflow.txt

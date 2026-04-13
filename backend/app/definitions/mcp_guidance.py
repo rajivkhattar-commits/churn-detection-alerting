@@ -16,8 +16,8 @@ def mcp_guidance() -> Dict[str, Any]:
             "askwoltai": {
                 "purpose": "Wolt-aware natural language and schema discovery on PRODUCTION.",
                 "tools": {
-                    "get_schema": "Returns Snowflake schema reference text — use first to align sql/*.sql placeholders.",
-                    "ask_wolt": "Ask how Enterprise (ENT) venues are defined, active counts, churn signals, etc.",
+                    "get_schema": "Returns Snowflake schema reference text — use first to align sql/*.sql placeholders. Includes CHURN / VENUE LIFECYCLE on VENUE_COUNTRY_REPORTING_MONTHLY / _WEEKLY / _DAILY and venue-level churn-with-reasons patterns on the daily table.",
+                    "ask_wolt": "Ask how Enterprise (ENT) venues are defined, churn KPIs vs venue-level churn lists, which reporting grain to use (monthly vs daily), and how dim flags relate to reporting numerators.",
                     "run_wolt_sql": "Run a read-only SELECT you have already written (validation).",
                 },
             },

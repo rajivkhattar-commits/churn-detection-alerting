@@ -2,6 +2,74 @@
 
 Web service and API that score **Enterprise (ENT) restaurant venues** for churn risk (per product), surface **root-cause hypotheses**, support **Slack/email playbooks**, and stay aligned with **Wolt’s Snowflake warehouse** via the same **`schema.py`** used by [AskWoltAI MCP](https://github.com/rajivkhattar-commits/ask-wolt-mcp).
 
+Churn KPIs and venue-level reporting patterns are documented in that repo’s **`schema.py`** (*CHURN / VENUE LIFECYCLE*, *VENUE-LEVEL CHURN WITH REASONS*). Set **`ASKWOLT_MCP_HOME`** to a clone so **`GET /api/definitions/enterprise`** loads join documentation; the HTTP response only includes a **truncated** excerpt of `SCHEMA_DESCRIPTION` — see [`backend/.env.example`](backend/.env.example) (`WOLT_SCHEMA_EXCERPT_CHARS`).
+
+## Quick install
+
+### Guided setup (paste into an LLM)
+
+**Who this is for:** teammates who are not comfortable running commands alone. **What to do:** copy **everything** in the block below (from “You are…” through the end) and paste it into **ChatGPT**, **Claude**, **Copilot**, **Cursor** chat, or another assistant. The model should walk the user through installation **one step at a time**, explain what each step does in plain language, ask which OS they use (macOS, Windows with WSL, Linux), and help interpret errors. The user will paste command output back when something fails.
+
+**Repository:** https://github.com/rajivkhattar-commits/churn-detection-alerting — default branch **main**.
+
+```text
+You are a patient technical coach helping a non-developer run the "Enterprise churn detection & alerting" app on their own machine.
+
+Goals:
+1) They have Git and Python 3.11+ available (help them verify or install via official installers / Homebrew / python.org — keep instructions appropriate for their OS).
+2) Clone the repo: https://github.com/rajivkhattar-commits/churn-detection-alerting.git
+3) In a terminal, go to the folder churn-detection-alerting/backend and run these commands in order, explaining each in simple terms before they run it:
+   - python3 -m venv .venv
+   - source .venv/bin/activate   (on Windows Git Bash/WSL use the equivalent activate script for their shell)
+   - pip install -r requirements.txt
+   - cp -n .env.example .env   (or copy .env.example to .env on Windows if cp -n fails)
+   - export ASKWOLT_MCP_HOME="${ASKWOLT_MCP_HOME:-$HOME/ask-wolt-mcp}"   (explain: optional path to ask-wolt-mcp clone; app still runs if missing)
+   - DEBUG=true PYTHONPATH=. uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
+
+4) Tell them to leave the terminal open while the server runs, then open http://127.0.0.1:8000 in a browser.
+
+5) Optional UI: if they want the full web UI, they need Node.js 18+. From the repo root (churn-detection-alerting), run: cd frontend && npm install && npm run build — then restart the uvicorn command. The build writes to backend/static/.
+
+6) For API keys and Snowflake (optional), point them to backend/.env and backend/.env.example — do not invent secrets.
+
+Rules: one step at a time; wait for them to confirm success or paste errors; never ask them to paste passwords into the chat; prefer official docs links for installing Git/Python/Node when needed.
+```
+
+---
+
+### Direct install (terminal, technical users)
+
+**What to copy:** all lines in the `bash` block below.
+
+**Where to paste:** a terminal (**Terminal.app**, **iTerm**, **VS Code / Cursor**, or **WSL** on Windows). Paste and press **Enter**; the shell runs each line in order. **Starting directory:** any folder where you keep projects (the clone creates `churn-detection-alerting/`).
+
+**Prerequisites:** **Git**, **Python 3.11+**, network for `git clone` and `pip install`.
+
+```bash
+git clone https://github.com/rajivkhattar-commits/churn-detection-alerting.git
+cd churn-detection-alerting/backend
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+cp -n .env.example .env
+export ASKWOLT_MCP_HOME="${ASKWOLT_MCP_HOME:-$HOME/ask-wolt-mcp}"
+DEBUG=true PYTHONPATH=. uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
+```
+
+Leave that terminal open while the API runs, then open **http://127.0.0.1:8000** (built UI only after the optional frontend build).
+
+**Already cloned?** `cd` to **`churn-detection-alerting/backend`**, then run from **`python3 -m venv .venv`** through **`uvicorn`** only.
+
+**Optional — frontend** (Node 18+), from repo root in a second terminal:
+
+```bash
+cd frontend
+npm install
+npm run build
+```
+
+Restart **`uvicorn`** afterward. Edit **`backend/.env`** for LLM keys, Snowflake, Slack/email, etc. ([`backend/.env.example`](backend/.env.example)).
+
 ---
 
 ## How the pieces connect
@@ -78,6 +146,7 @@ Results are stored with the score in memory for the UI and outreach templates.
 The AskWoltAI repo’s **`schema.py`** defines **`SCHEMA_DESCRIPTION`** — the same table/join documentation exposed as MCP **`get_schema`**. This project loads it **at runtime** when **`ASKWOLT_MCP_HOME`** points to a clone of `ask-wolt-mcp` (no MCP process required).
 
 - **`GET /api/definitions/enterprise`** returns `canonical_joins.schema_reference` (excerpt + metadata) when the clone is present.
+- **Churn analytics** (reporting-table KPIs and venue-level churn with reasons) are documented in **`schema.py`** under *CHURN / VENUE LIFECYCLE* and *VENUE-LEVEL CHURN WITH REASONS*; the API excerpt is only the first **WOLT_SCHEMA_EXCERPT_CHARS** characters of `SCHEMA_DESCRIPTION`, so open the file or use MCP **`get_schema`** for full text.
 - Optional **`CANONICAL_JOINS_JSON`** overrides structured joins for your deployment.
 
 **Cursor MCP** is still useful for **interactive** questions; **production** relies on **disk path + env**, not MCP connectivity.
@@ -94,33 +163,18 @@ Project rule (Cursor): [`.cursor/rules/askwolt-mcp-sync.mdc`](.cursor/rules/askw
 
 ---
 
-## Installation (this repo)
+## Installation (reference)
 
-```bash
-cd churn-detection-alerting/backend
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
+Use **[Quick install](#quick-install)** above — **Guided setup** for LLM-assisted onboarding, or **Direct install** for a terminal script. Summary:
 
-Optional: copy [`backend/.env.example`](backend/.env.example) to `backend/.env` and set `ASKWOLT_MCP_HOME`, LLM keys, etc.
+| Step | Command / note |
+|------|----------------|
+| Backend deps | `python3 -m venv .venv` → `source .venv/bin/activate` → `pip install -r requirements.txt` in **`backend/`** |
+| Config | Copy [`backend/.env.example`](backend/.env.example) → **`backend/.env`**; set **`ASKWOLT_MCP_HOME`**, LLM keys, optional Snowflake, outreach |
+| Run API | **`DEBUG=true PYTHONPATH=. uvicorn app.main:app --reload --host 127.0.0.1 --port 8000`** from **`backend/`** (enables dev endpoints and startup AskWolt clone check) |
+| Frontend | In **`frontend/`**: `npm install` → `npm run build` — then reload the API so it serves assets under **`backend/static/`** (see Vite config) |
 
-**Frontend (optional):**
-
-```bash
-cd ../frontend
-npm install
-npm run build
-```
-
-Run API (enable dev endpoints + startup clone check with **`DEBUG=true`**):
-
-```bash
-cd backend
-DEBUG=true PYTHONPATH=. uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
-```
-
-Open `http://127.0.0.1:8000` if static assets were built.
+Open **http://127.0.0.1:8000** after a frontend build (or use API-only / OpenAPI at **`/docs`**).
 
 ### UI: default vs strict production (Vite)
 

@@ -1,6 +1,9 @@
 -- Feature snapshot query template (DBA / analytics-owned).
 -- The application does not execute this file against Snowflake automatically.
 -- Discover real fact table names via AskWoltAI get_schema; validate joins with CANONICAL_JOINS_JSON.
+--
+-- For churn-adjacent aggregates (rates, net churn venues), prefer documented MERCHANT reporting tables
+-- at the right grain; for venue-level churn history with reasons, see VENUE_COUNTRY_REPORTING_DAILY in schema.py.
 
 CREATE OR REPLACE VIEW churn_mart.feature_snapshot_latest AS
 SELECT

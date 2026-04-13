@@ -63,8 +63,12 @@ def canonical_joins_from_env() -> Dict[str, Any]:
         out["configured"] = True
         out["primary_source"] = "askwolt_schema_py"
         out["joins"] = {
-            "_documentation": "Table grains and join patterns are in schema_reference.schema_description_excerpt "
-            "(from ask-wolt-mcp/schema.py SCHEMA_DESCRIPTION).",
+            "_documentation": (
+                "Table grains and join patterns are in schema_reference.schema_description_excerpt "
+                "(from ask-wolt-mcp/schema.py SCHEMA_DESCRIPTION). The excerpt is truncated — for churn analytics, "
+                "open schema.py and search for 'CHURN / VENUE LIFECYCLE' and 'VENUE-LEVEL CHURN WITH REASONS' "
+                "(MERCHANT reporting tables), or raise WOLT_SCHEMA_EXCERPT_CHARS with care for response size."
+            ),
         }
     else:
         out["configured"] = False
